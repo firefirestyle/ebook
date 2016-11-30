@@ -140,7 +140,9 @@ https://scratch.mit.edu/projects/77983448/
 ## Thanks
 
 ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+
 では、<ruby>次回<rt>じかい</rt><ruby><ruby>会<rt>あ</rt></ruby>えることを、<ruby>楽<rt>たの</rt></ruby>しみにしています。
+
 ではでは
 
 
