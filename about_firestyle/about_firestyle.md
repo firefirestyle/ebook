@@ -104,29 +104,31 @@ https://scratch.mit.edu/projects/77983448/
 <ruby>頑張<rt>がんば</rt></ruby>れば、1～2<ruby>週間<rt>しゅうかん</rt></ruby>とかからず<ruby>習得<rt>しゅうとく</rt></ruby>できます。
 
 
-### 粘土をこねるようなもの
+### <ruby>粘土<rt>ねんど</rt></ruby>をこねるようなもの
 
-一見、複雑な構造も、単純な仕組みの組み合わせからできています。すぐに、作れるところから、少しずつ組み立てていきましょう。
+<ruby>何<rt>なに</rt></ruby>か<ruby>作<rt>つく</rt></ruby>りたゲームがあったとして、どこから<ruby>手<rt>て</rt></ruby>をつけて<ruby>良<rt>よ</rt></ruby>いかわからない<ruby>君</ruby>!!
 
-なので、何か作りたゲームがあったとして、どこから手を付けるか悩む必要はありません。
-もちろん、効率的に組むためのテクニックはありますが、直ぐに組み立てられるところを探し、組み立てていくだけでもゲームは完成します。
+<ruby>一見<rt>いっけん</rt></ruby>して、<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>構造<rt>こうぞう</rt></ruby>も、<ruby>単純<rt>たんじゅん</rt></ruby>な<ruby>仕組<rt>しく</rt></ruby>みの<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせからできています。すぐに、<ruby>作<rt>つく</rt></ruby>れるところから、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てていきましょう。
+
+もちろん、<ruby>効率的<rt>こうりつてき</rt></ruby>に<ruby>組<rt>く</rt></ruby>むためのテクニックはありますが、<ruby>直<rt>す</rt></ruby>ぐに<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てられるところから、<ruby>組<rt>く<rt></ruby>み<ruby>立<rt>た</rt></ruby>てていくだけでもゲームは<ruby>完成<rt>かんせい</rt></ruby>します。
 
 
 　
-## 火の型がサポートします。
+## <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>がサポートします。
 <img width="360" src="ab001.png">
 
 <div>
 <ruby>僕<rt>ぼく</rt></ruby>と<ruby>契約<rt>けいやく</rt></ruby>して、プログラマーになってよ!!
 </div>
 　<br>
-　興味を沸いてきましたか? そんなあなた!! 実際に手を動かすのが早道です。火の型では、粘土をこねるようにゲームを作成していきます。一緒にTry&Errorを繰り返しましょう!!
+　<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>いてきましたか? そんな、そこのあなた!! <ruby>実際<rt>じっさい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすのが<ruby>早道<rt>はやみち</rt></ruby>です。<ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>では、<ruby>粘土<rt>ねんど</rt></ruby>をこねるようにゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
+<ruby>一緒<rt>いっしょ</rt></ruby>にTry&Errorを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しましょう!!
 
 
 ## Thanks
 
-ここまで、読んでくれてありがとう!!
-では、次回会えることを、楽しみにしています。
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+では、<ruby>次回<rt>じかい</rt><ruby><ruby>会<rt>あ</rt></ruby>えることを、<ruby>楽<rt>たの</rt></ruby>しみにしています。
 ではでは
 
 
