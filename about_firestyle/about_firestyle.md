@@ -2,71 +2,77 @@
 
 <div>
 <ruby>僕<rt>ぼく</rt></ruby>と<ruby>契約<rt>けいやく</rt></ruby>して、プログラマーになってよ!!
+</div>
 
 
-# <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>で、プログラマーになろう</ruby>
+<h1> <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>で、プログラマーになろう</ruby></h1>
 
-## 色々なゲームを作れるようにります。
+<h2> 色々なゲームを作れるようにります。</h2>
 
+<div style="margin-left:20px;width:450px;">
 25<ruby>回<rt>かい</rt></ruby>にわたって
 ScratchとDartを<ruby>利用<rt>りよう<rt></ruby>して、ミニゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
 ひとつの<ruby>記事<rt>きじ</rt></ruby>が1<ruby>時間<rt>じかん</rt></ruby>くらいのチュートリアルです。
 いろんなゲームを<ruby>作<rt>つく</rt></ruby>れるようになります
 
-### おにごっこゲームを<ruby>作成<rt>さくせい<rt></ruby>したり
-https://scratch.mit.edu/projects/87798109
+<h2> おにごっこゲームを<ruby>作成<rt>さくせい<rt></ruby>したり</h2>
 
+https://scratch.mit.edu/projects/87798109
+<br>
 ![](oni.png)
 
-### スプラトゥーンっぽいゲームを<ruby>作<rt>つく</rt></ruby>ったり
+<h2> スプラトゥーンっぽいゲームを<ruby>作<rt>つく</rt></ruby>ったり</h2>
 
 https://scratch.mit.edu/projects/78792936/
-
+<br>
 ![](inkrunner.png)
 
-### テトリスを<ruby>作<rt>つく</rt></ruby>ったり
-https://scratch.mit.edu/projects/84309456/
+<h2> テトリスを<ruby>作<rt>つく</rt></ruby>ったり</h2>
 
+https://scratch.mit.edu/projects/84309456/
+<br>
 ![](tetris.png)
 
-### パズドラっぽいのを<ruby>作<rt>つく</rt></ruby>ったり
+
+<h2> パズドラっぽいのを<ruby>作<rt>つく</rt></ruby>ったり</h2>
 
 https://scratch.mit.edu/projects/89631068/
-
+<br>
 ![](pazdor.png)
 
 
-### Pongを<ruby>作<rt>つく</rt></ruby>ったり
+<h2> Pongを<ruby>作<rt>つく</rt></ruby>ったり</h2>
 
 https://scratch.mit.edu/projects/77999912/
-
+<br>
 ![](pong.png)
 
-### Spacewar!!を<ruby>作<rt>つく</rt></ruby>ったり
+<h2> Spacewar!!を<ruby>作<rt>つく</rt></ruby>ったり </h2>
 
 https://scratch.mit.edu/projects/78173242/
-
+<br>
 ![](spacewar.png)
 
-### 3Dアニメを作ったり
+<h2> 3Dアニメを作ったり</h2>
 
 https://scratch.mit.edu/projects/88155875/
-
+<br>
 ![](3danime.png)
 
-### 重力計算ををして、星の運行を予想したり
+<h2> 重力計算ををして、星の運行を予想したり</h2>
 
 https://scratch.mit.edu/projects/84535698/
-
+<br>
 ![](gravity.png)
 
-### Tennis For Two を作ったり
+<h2> Tennis For Two を作ったり</h2>
 
 https://scratch.mit.edu/projects/77983448/
-
+<br>
 ![](tennis_for_two.png)
 
 
+</div>
 
 
 　
