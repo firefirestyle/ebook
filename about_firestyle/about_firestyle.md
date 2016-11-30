@@ -1,3 +1,4 @@
+<link href="/path/to/markdown.css" rel="stylesheet"></link>
 <img width="360" src="ab001.png">
 
 <div>
