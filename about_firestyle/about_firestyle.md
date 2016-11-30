@@ -1,17 +1,3 @@
-<style>
-readme {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: grey;
-  max-width:600px;
-  padding: 30px;
-  color: #333;
-}
-</style>
-
 <img width="360" src="ab001.png">
 
 <div>
@@ -23,60 +9,61 @@ readme {
 
 ## 色々なゲームを作れるようにります。
 
+  25<ruby>回<rt>かい</rt></ruby>にわたって
+  ScratchとDartを<ruby>利用<rt>りよう<rt></ruby>して、ミニゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
 
-25<ruby>回<rt>かい</rt></ruby>にわたって
-ScratchとDartを<ruby>利用<rt>りよう<rt></ruby>して、ミニゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
-ひとつの<ruby>記事<rt>きじ</rt></ruby>が1<ruby>時間<rt>じかん</rt></ruby>くらいのチュートリアルです。
-いろんなゲームを<ruby>作<rt>つく</rt></ruby>れるようになります
+  ひとつの<ruby>記事<rt>きじ</rt></ruby>が1<ruby>時間<rt>じかん</rt></ruby>くらいのチュートリアルです。
 
-### おにごっこゲームを<ruby>作成<rt>さくせい<rt></ruby>したり
+  いろんなゲームを<ruby>作<rt>つく</rt></ruby>れるようになります
+
+### A. おにごっこゲームを<ruby>作成<rt>さくせい<rt></ruby>したり
 https://scratch.mit.edu/projects/87798109
 
 ![](oni.png)
 
-### スプラトゥーンっぽいゲームを<ruby>作<rt>つく</rt></ruby>ったり
+### B. スプラトゥーンっぽいゲームを<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/78792936/
 
 ![](inkrunner.png)
 
-### テトリスを<ruby>作<rt>つく</rt></ruby>ったり
+### C. テトリスを<ruby>作<rt>つく</rt></ruby>ったり
 https://scratch.mit.edu/projects/84309456/
 
 ![](tetris.png)
 
-### パズドラっぽいのを<ruby>作<rt>つく</rt></ruby>ったり
+### D. パズドラっぽいのを<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/89631068/
 
 ![](pazdor.png)
 
 
-### Pongを<ruby>作<rt>つく</rt></ruby>ったり
+### E. Pongを<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/77999912/
 
 ![](pong.png)
 
-### Spacewar!!を<ruby>作<rt>つく</rt></ruby>ったり
+### F. Spacewar!!を<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/78173242/
 
 ![](spacewar.png)
 
-### 3Dアニメを作ったり
+### G. 3Dアニメを作ったり
 
 https://scratch.mit.edu/projects/88155875/
 
 ![](3danime.png)
 
-### 重力計算ををして、星の運行を予想したり
+### H. 重力計算ををして、星の運行を予想したり
 
 https://scratch.mit.edu/projects/84535698/
 
 ![](gravity.png)
 
-### Tennis For Two を作ったり
+### I. Tennis For Two を作ったり
 
 https://scratch.mit.edu/projects/77983448/
 
