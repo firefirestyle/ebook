@@ -11,12 +11,10 @@
 ## 色々なゲームを作れるようにります。
 
 
-<div style="margin-left:20px;width:450px;">
 25<ruby>回<rt>かい</rt></ruby>にわたって
 ScratchとDartを<ruby>利用<rt>りよう<rt></ruby>して、ミニゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
 ひとつの<ruby>記事<rt>きじ</rt></ruby>が1<ruby>時間<rt>じかん</rt></ruby>くらいのチュートリアルです。
 いろんなゲームを<ruby>作<rt>つく</rt></ruby>れるようになります
-</div>
 
 ### おにごっこゲームを<ruby>作成<rt>さくせい<rt></ruby>したり
 https://scratch.mit.edu/projects/87798109
