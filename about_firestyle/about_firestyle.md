@@ -1,4 +1,17 @@
-<link href="markdown.css" rel="stylesheet"></link>
+<style>
+readme {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: grey;
+  max-width:600px;
+  padding: 30px;
+  color: #333;
+}
+</style>
+
 <img width="360" src="ab001.png">
 
 <div>
