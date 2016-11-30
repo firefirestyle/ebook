@@ -5,10 +5,13 @@
 <br>
 
 <ruby>今<rt>いま</rt></ruby>、あなたは、<ruby>世界一<rt>せかいいち</rt>のプログラマーになりました。
+
 ソフトウェアが<ruby>動作<rt>どうさ</rt></ruby>する<ruby>環境<rt>かんきょう</rt></ruby>なら
-あなたに<ruby>不可能<rt>ふかのう</rt></ruby>な<ruby>事<rt>こと</rt></ruby>はないでしょう。
+あなたに<ruby>不可能<rt>ふかのう</rt></ruby>な<ruby>事<rt>こと</rt></ruby>はありません。
+
 
 もうすぐ、あらゆるもので、ソフトウェアが<ruby>動作<rt>どうさ</rt></ruby>するようになります。
+
 つまり、あなたは　あらゆることができます。
 もう、なんでもありです。
 
@@ -18,7 +21,7 @@
 
 
 　
-## 色々なゲームを作れるようにります。
+## <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>を<ruby>試<rt>ため</rt></ruby>すと、<ruby>色々<rt>いろいろ</rt></ruby>なゲームを<ruby>作<rt>つく</rt></ruby>れるようにります。
 
   25<ruby>回<rt>かい</rt></ruby>にわたって
   ScratchとDartを<ruby>利用<rt>りよう<rt></ruby>して、ミニゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
@@ -62,19 +65,20 @@ https://scratch.mit.edu/projects/78173242/
 
 ![](spacewar.png)
 
-### G. 3Dアニメを作ったり
+### G. 3Dアニメを<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/88155875/
 
 ![](3danime.png)
 
-### H. 重力計算ををして、星の運行を予想したり
+### H. <ruby>重力<rt>じゅうりょく</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>をして、<ruby>星<rt>ほし</rt></ruby>の<ruby>運行<rt>うんこう</rt></ruby>を<ruby>予想<rt>よそう</rt></ruby>したり
+
 
 https://scratch.mit.edu/projects/84535698/
 
 ![](gravity.png)
 
-### I. Tennis For Two を作ったり
+### I. Tennis For Two を<ruby>作<rt>つく</rt></ruby>ったり
 
 https://scratch.mit.edu/projects/77983448/
 
@@ -89,11 +93,18 @@ https://scratch.mit.edu/projects/77983448/
 　　
 
 
-## プログラムは<ruby>誰<rt>だれ</rt></ruby>でも<ruby>書<rt>か</rt></ruby>ける
+　
+　　
+　　
+
+
+## <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>を<ruby>試<rt>ため</rt></ruby>すと、<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>誤解<rt>ごかい</rt></ruby>が<ruby>解<rt>と</rt></ruby>けます
+
+### プログラムは<ruby>難<rt>むずか</rt></ruby>しいという<ruby>誤解<rt>ごかい</rt></ruby>
 
 このようなプログラムは、<ruby>複雑<rt>ふくざつ</rt><ruby>で、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>教育<rt>きょういく</rt></ruby>を<ruby受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>が<ruby>書<rt>か</rt></ruby>くものと<ruby>考<rt>かんが</rt></ruby>えていませんか?
 
-### <ruby>人間<rt>にんげん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のほうが<ruby>複雑<rt>ふくざつ</rt></ruby>
+##### <ruby>人間<rt>にんげん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のほうが<ruby>複雑<rt>ふくざつ</rt></ruby>
 
 プログラム<ruby>言語<rt>げんご</rt></ruby>は、<ruby>人工言語<rt>じんこうげんご</rt></ruby>です。
 <ruby>英語<rt>えいご</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>、ドイツ<ruby>語<rt>ご</rt></ruby>、と、<ruby>我々<rt>われわれ</rt></ruby>、<ruby>人族<rt>ひとぞく</rt></ruby>が<ruby>使<rt>つか</rt></ruby>う<ruby>言語<rt>げんご</rt></ruby>を<ruby>基本<rt>きほん</rt></ruby>に<ruby>作成<rt>さくせい</rt></ruby>されました。
@@ -104,7 +115,7 @@ https://scratch.mit.edu/projects/77983448/
 <ruby>頑張<rt>がんば</rt></ruby>れば、1～2<ruby>週間<rt>しゅうかん</rt></ruby>とかからず<ruby>習得<rt>しゅうとく</rt></ruby>できます。
 
 
-### <ruby>粘土<rt>ねんど</rt></ruby>をこねるようなもの
+##### <ruby>粘土<rt>ねんど</rt></ruby>をこねるようなもの
 
 <ruby>何<rt>なに</rt></ruby>か<ruby>作<rt>つく</rt></ruby>りたゲームがあったとして、どこから<ruby>手<rt>て</rt></ruby>をつけて<ruby>良<rt>よ</rt></ruby>いかわからない<ruby>君</ruby>!!
 
@@ -123,6 +134,7 @@ https://scratch.mit.edu/projects/77983448/
 　<br>
 　<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>いてきましたか? そんな、そこのあなた!! <ruby>実際<rt>じっさい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすのが<ruby>早道<rt>はやみち</rt></ruby>です。<ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>では、<ruby>粘土<rt>ねんど</rt></ruby>をこねるようにゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
 <ruby>一緒<rt>いっしょ</rt></ruby>にTry&Errorを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しましょう!!
+
 
 
 ## Thanks
