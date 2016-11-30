@@ -1,8 +1,8 @@
-![](ab001.png)
+<img width="360" src="ab001.png">
 
 <div>
 <ruby>僕<rt>ぼく</rt></ruby>と<ruby>契約<rt>けいやく</rt></ruby>して、プログラマーになってよ!!
-</div>
+
 
 # <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>で、プログラマーになろう</ruby>
 
