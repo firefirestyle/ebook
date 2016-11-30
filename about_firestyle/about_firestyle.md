@@ -104,7 +104,7 @@ https://scratch.mit.edu/projects/77983448/
 
 このようなプログラムは、<ruby>複雑<rt>ふくざつ</rt><ruby>で、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>教育<rt>きょういく</rt></ruby>を<ruby受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>が<ruby>書<rt>か</rt></ruby>くものと<ruby>考<rt>かんが</rt></ruby>えていませんか?
 
-##### <ruby>人間<rt>にんげん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のほうが<ruby>複雑<rt>ふくざつ</rt></ruby>
+#### <ruby>人間<rt>にんげん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のほうが<ruby>複雑<rt>ふくざつ</rt></ruby>
 
 プログラム<ruby>言語<rt>げんご</rt></ruby>は、<ruby>人工言語<rt>じんこうげんご</rt></ruby>です。
 <ruby>英語<rt>えいご</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>、ドイツ<ruby>語<rt>ご</rt></ruby>、と、<ruby>我々<rt>われわれ</rt></ruby>、<ruby>人族<rt>ひとぞく</rt></ruby>が<ruby>使<rt>つか</rt></ruby>う<ruby>言語<rt>げんご</rt></ruby>を<ruby>基本<rt>きほん</rt></ruby>に<ruby>作成<rt>さくせい</rt></ruby>されました。
@@ -115,7 +115,7 @@ https://scratch.mit.edu/projects/77983448/
 <ruby>頑張<rt>がんば</rt></ruby>れば、1～2<ruby>週間<rt>しゅうかん</rt></ruby>とかからず<ruby>習得<rt>しゅうとく</rt></ruby>できます。
 
 
-##### <ruby>粘土<rt>ねんど</rt></ruby>をこねるようなもの
+#### <ruby>粘土<rt>ねんど</rt></ruby>をこねるようなもの
 
 <ruby>何<rt>なに</rt></ruby>か<ruby>作<rt>つく</rt></ruby>りたゲームがあったとして、どこから<ruby>手<rt>て</rt></ruby>をつけて<ruby>良<rt>よ</rt></ruby>いかわからない<ruby>君</ruby>!!
 
