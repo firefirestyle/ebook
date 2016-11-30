@@ -78,10 +78,9 @@ https://scratch.mit.edu/projects/77983448/
 　　
 
 
-## プログラムは誰でも書ける
+## プログラムは<ruby>誰<rt>だれ</rt></ruby>でも<ruby>書<rt>か</rt></ruby>ける
 
-うーむ、このようなプログラムは、難解で複雑で大人が作るものと
-考えていませんか?
+このようなプログラムは、<ruby>複雑<rt>ふくざつ</rt><ruby>で、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>教育<rt>きょういく</rt></ruby>を<ruby受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>が<ruby>書<rt>か</rt></ruby>くものと<ruby>考<rt>かんが</rt></ruby>えていませんか?
 
 ### 人間の言葉のほうが複雑
 
