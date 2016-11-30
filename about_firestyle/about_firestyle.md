@@ -4,7 +4,7 @@
 <img src="magic.png">
 <br>
 
-<ruby>今<rt>いま</rt></ruby>、あなたは、<ruby>世界一<せかいいち>のプログラマーになりました。
+<ruby>今<rt>いま</rt></ruby>、あなたは、<ruby>世界一<rt>せかいいち</rt>のプログラマーになりました。
 ソフトウェアが<ruby>動作<rt>どうさ</rt></ruby>する<ruby>環境<rt>かんきょう</rt></ruby>なら
 あなたに<ruby>不可能<rt>ふかのう</rt></ruby>な<ruby>事<rt>こと</rt></ruby>はないでしょう。
 
