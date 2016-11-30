@@ -1,9 +1,3 @@
-<img width="360" src="ab001.png">
-
-<div>
-<ruby>僕<rt>ぼく</rt></ruby>と<ruby>契約<rt>けいやく</rt></ruby>して、プログラマーになってよ!!
-</div>
-
 
 # <ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>で、プログラマーになろう</ruby>
 
@@ -82,16 +76,16 @@ https://scratch.mit.edu/projects/77983448/
 
 このようなプログラムは、<ruby>複雑<rt>ふくざつ</rt><ruby>で、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>教育<rt>きょういく</rt></ruby>を<ruby受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>が<ruby>書<rt>か</rt></ruby>くものと<ruby>考<rt>かんが</rt></ruby>えていませんか?
 
-### 人間の言葉のほうが複雑
+### <ruby>人間<rt>にんげん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>のほうが<ruby>複雑<rt>ふくざつ</rt></ruby>
 
-プログラム言語は、人工言語です。
-英語、日本語、ドイツ語、我々、人族が使う言語と基本は同じです。
+プログラム<ruby>言語<rt>げんご</rt></ruby>は、<ruby>人工言語<rt>じんこうげんご</rt></ruby>です。
+<ruby>英語<rt>えいご</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>、ドイツ<ruby>語<rt>ご</rt></ruby>、と、<ruby>我々<rt>われわれ</rt></ruby>、<ruby>人族<rt>ひとぞく</rt></ruby>が<ruby>使<rt>つか</rt></ruby>う<ruby>言語<rt>げんご</rt></ruby>を<ruby>基本<rt>きほん</rt></ruby>に<ruby>作成<rt>さくせい</rt></ruby>されました。
 
-しかも、人族の言語を学ぶのとは違い、覚える事はとても少なく。
-語学学習としての難易度は低いです。
+しかも、<ruby>人族<rt>ひとぞく</rt></ruby>の<ruby>言語<rt><げんご/rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶのとは<ruby>違<rt>ちが</rt></ruby>い、<ruby>覚<rt>おぼ</rt></ruby>える<ruby>事<rt>こと</rt></ruby>はとても<ruby>少<rt>すく</rt></ruby>なく。
+<ruby>語学学習<rt><ごがくがくしゅう/rt></ruby>としての<ruby>難易度<rt>なんいど</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>いです。
 
-おまけに、書き間違えると、指摘してくれます。
-書く補助をしてくれるツールも沢山あります。
+<ruby>頑張<rt>がんば</rt></ruby>れば、1～2<ruby>週間<rt>しゅうかん</rt></ruby>とかからず<ruby>習得<rt>しゅうとく</rt></ruby>できます。
+
 
 ### 粘土をこねるようなもの
 
@@ -102,6 +96,16 @@ https://scratch.mit.edu/projects/77983448/
 
 
 　
-### 具体的に実践して確信をもとう
-　この、火の型のプログラムを通して、粘土をこねるようにゲームを作成していきます。
-　プログラム言語を利用して、ゲームを組むことができるになるでしょう。
+## 火の型がサポートします。
+<img width="360" src="ab001.png">
+
+<div>
+<ruby>僕<rt>ぼく</rt></ruby>と<ruby>契約<rt>けいやく</rt></ruby>して、プログラマーになってよ!!
+</div>
+　<br>
+　興味を沸いてきましたか? そんなあなた!! 実際に手を動かすのが早道です。火の型では、粘土をこねるようにゲームを作成していきます。一緒にTry&Errorを繰り返しましょう!!
+
+
+## Thanks
+
+もしも、
