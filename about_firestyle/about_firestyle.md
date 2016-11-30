@@ -1,4 +1,4 @@
-<link href="markdown.css" rel="stylesheet"></link>
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 <img width="360" src="ab001.png">
 
 <div>
