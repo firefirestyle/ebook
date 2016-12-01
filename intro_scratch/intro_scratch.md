@@ -44,13 +44,13 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
   Hacker<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>といって<ruby>良<rt><よ/rt></ruby>いです。
 
 #### Java
- 1995年にサン・マイクロシステムズで生まれました。
- <ruby>最新鋭</ruby>の <ruby>非同期処理</ruby>、クラスベースのオブジェクト<ruby>指向</ruby>を、<ruby>標準装備</ruby>
+ 1995<ruby>年<rt>ねん</rt></ruby>にサン・マイクロシステムズで<ruby>生<rt>う</rt></ruby>まれました。
+ <ruby>最新鋭<rt>さいしんえい</rt></ruby>の <ruby>非同期処理<rt>ひどうきしょり</rt></ruby>、クラスベースのオブジェクト<ruby>指向<rt>しこう</rt></ruby>を、<ruby>標準装備<rt>ひょうじゅんそうび</rt></ruby>
 
- C<ruby>言語</ruby><ruby>習得者</ruby>なら<ruby>容易</ruby>に<ruby>習得</ruby>できる<ruby>基本設計</ruby>ながらコンパイル<ruby>後</ruby>の<ruby>安全性</ruby>も<ruby>考慮</ruby>してます。
+ C<ruby>言語<rt>げんご</rt></ruby><ruby>習得者<rt>しゃうとくしゃ</rt></ruby>なら<ruby>容易<rt>ようい</rt></ruby>に<ruby>習得<rt>しゅうとく</rt></ruby>できる<ruby>言語設計<rt>げんごせっけい</rt></ruby>ながらコンパイル<ruby>後<rt>ご</rt></ruby>の<ruby>安全性<rt>あんぜんせい</rt></ruby>も<ruby>考慮<rt>こうりょ</rt></ruby>しており。
 
- <ruby>初学者</ruby>にも<ruby>安心</ruby>して<ruby>使</ruby>えると<ruby>共</ruby>に、<ruby>最新鋭</ruby>の<ruby>装備</ruby>を<ruby>自由自在</ruby>に<ruby>利用</ruby>できる。
-　<ruby>夢</ruby>の<ruby>言語</ruby>でした。
+ <ruby>初学者<rt>しょがくしゃ</rt></ruby>にも<ruby>安心<rt>あんしん</rt></ruby>して<ruby>使<rt><つか/rt></ruby>えると<ruby>共<rt>とも</rt></ruby>に、<ruby>最新鋭<rt>さいしんえい</rt></ruby>の<ruby>装備<rt>そうび</rt></ruby>を<ruby>自由自在<rt>じゆうじざい</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>できる。
+　<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>でした。
 
 #### JavaScript
  1996<ruby>年</ruby>にネットスケープコミュニケーションズで<ruby>生</ruby>まれた。もともとはLiveScriptと<ruby>呼</ruby>ばれていたが、Javaの<ruby>人気</ruby>にあやかりJavaScriptと<ruby>改名</ruby>した。
