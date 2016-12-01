@@ -61,6 +61,8 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 
 #### JavaScript : Web Page を<ruby>作<rt>つく</rt></ruby>りたいあなたに
 
+![](js.png)
+
  1996<ruby>年<rt>ねん</rt></ruby>にネットスケープコミュニケーションズで<ruby>生<rt>う</rt></ruby>まれた。もともとはLiveScriptと<ruby>呼<rt>よ</rt></ruby>ばれていたが、Javaの<ruby>人気<rt>にんき</rt></ruby>にあやかりJavaScriptと<ruby>改名<rt>かいめい</rt></ruby>した。
  プロトタイプベースのオブジェクト<ruby>指向<rt>しこう</rt></ruby>を<ruby>装備<rt>そうび</rt></ruby>しており。メジャーなWebブラウザー<ruby>上<rt>じょう</rt></ruby>で<ruby>動作<rt>どうさ</rt></ruby>する。
 
