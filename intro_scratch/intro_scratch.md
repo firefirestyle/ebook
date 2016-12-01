@@ -53,29 +53,37 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 　<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>でした。
 
 #### JavaScript
- 1996<ruby>年</ruby>にネットスケープコミュニケーションズで<ruby>生</ruby>まれた。もともとはLiveScriptと<ruby>呼</ruby>ばれていたが、Javaの<ruby>人気</ruby>にあやかりJavaScriptと<ruby>改名</ruby>した。
- プロトタイプベースのオブジェクト<ruby>指向</ruby>を<ruby>装備</ruby>しており。メジャーなWebブラウザー<ruby>上</ruby>で<ruby>動作</ruby>する。
+ 1996<ruby>年<rt>ねん</rt></ruby>にネットスケープコミュニケーションズで<ruby>生<rt>う</rt></ruby>まれた。もともとはLiveScriptと<ruby>呼<rt>よ</rt></ruby>ばれていたが、Javaの<ruby>人気<rt>にんき</rt></ruby>にあやかりJavaScriptと<ruby>改名<rt>かいめい</rt></ruby>した。
+ プロトタイプベースのオブジェクト<ruby>指向<rt>しこう</rt></ruby>を<ruby>装備<rt>そうび</rt></ruby>しており。メジャーなWebブラウザー<ruby>上<rt>じょう</rt></ruby>で<ruby>動作<rt>どうさ</rt></ruby>する。
 
- Webページ<ruby>上</ruby>で<ruby>動作</ruby>するプログラムを<ruby>書</ruby>くのに<ruby>必須</ruby>の<ruby>言語</ruby>であるる
+ Webページ<ruby>上</ruby>で<ruby>動作<rt>どうさ</rt></ruby>するプログラムを<ruby>書<rt><か/rt></ruby>くのに<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>であるる
 
 #### Lisp
- 1958<ruby>年</ruby>にMITで<ruby>生</ruby>まれました。
+ 1958<ruby>年<rt>ねん</rt></ruby>にMITで<ruby>生<rt>う</rt></ruby>まれました。
 
- <ruby>高級言語</ruby>としては、2<ruby>番目</ruby>の<ruby>子</ruby>で<ruby>最古</ruby>の<ruby>言語</ruby>のひとつである。
+ <ruby>高級言語<rt>こうきゅぅげんご</rt></ruby>としては、2<ruby>番目<rt>ばんめ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>で<ruby>最古<rt>さいこ</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>のひとつである。
 
- <ruby>今</ruby>まで<ruby>紹介</ruby>した<ruby>言語</ruby>と<ruby>違</ruby>い、<ruby>関数型</ruby>プログラミングをサポートしている。
- このため、<ruby>数学的</ruby>に<ruby>問題</ruby>を<ruby>扱</ruby>う<ruby>事</ruby>ができる。
+ <ruby>今<rt>いま</rt></ruby>まで<ruby>紹介<rt>しょうかい</rt></ruby>した<ruby>言語<rt>げんご</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>い、<ruby>関数型<rt>かんすう</rt></ruby>プログラミングをサポートしている。
+ このため、<ruby>数学的<rt>すうがくてき</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>事<rt>こと</rt></ruby>ができる。
  http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html
 
 
 #### Scratch
-　2006<ruby>年</ruby>にMITメディアラボで<ruby>生</ruby>まれた。プログラミング<ruby>言語</ruby>を<ruby>学習</ruby>する<ruby>人向</ruby>けに<ruby>開発</ruby>された<ruby>言語</ruby>。「HelloWorld<ruby>症候群</ruby>」の<ruby>特効薬</ruby>である。
-
-HelloWorld<ruby>症候群</ruby>にかかると「そもそも、プログラムって<ruby>何</ruby>」?と<ruby>右</ruby>も<ruby>左</ruby>もわからない<ruby>初心者</ruby>が、<ruby>右往左往</ruby>したのち、プログラムを<ruby>開発環境</ruby>をいれた<ruby>段階</ruby>で<ruby>情熱</ruby>も、<ruby>気力</ruby>も、<ruby>吸</ruby>い<ruby>取</ruby>られてしまう。
+　2006<ruby>年<rt>ねん</rt></ruby>にMITメディアラボで<ruby>生<rt>う</rt></ruby>まれた。プログラミング<ruby>言語<rt>げんご</rt></ruby>を<ruby>学習<rt>がくしゅう</rt></ruby>する<ruby>人向<rt>ひとむ</rt></ruby>けに<ruby>開発<rt>かいはつ</rt></ruby>された<ruby>言語<rt>げんご</rt></ruby>です。「HelloWorld<ruby>症候群<rt>しょうこうぐん</rt></ruby>」の<ruby>特効薬<rt>とっこうやく</rt></ruby>である。
 
 
+HelloWorld<ruby>症候群<rt>しょうこうぐん</rt></ruby>にかかると「そもそも、プログラムって<ruby>何<rt>なに</rt></ruby>」?と<ruby>右<rt>みぎ</rt></ruby>も<ruby>左<rt>ひだり</rt></ruby>もわからない<ruby>初心者<rt>しょしんしゃ</rt></ruby>が、<ruby>右往左往<rt></rt>うおうさおう</ruby>したのち、プログラムの<ruby>開発環境<rt>かいはつかんきょう</rt></ruby>をいれた<ruby>段階<rt>だんかい</rt></ruby>で<ruby>情熱<rt>じょうねつ</rt></ruby>も、<ruby>気力<rt>きりょく</rt></ruby>も、<ruby>吸<rt>す</rt></ruby>い<ruby>取<rt>と</rt></ruby>られてしまう。
 
-# Scratchの<ruby>開発画面</ruby>を<ruby>開</ruby>く
+
+#### Dart
+
+この<ruby>記事<rt>きじ</rt></ruby>の<ruby>作者<rt>さくしゃ</rt></ruby>であるkyorohiroが<ruby>好<rt>す</rt></ruby>きな、<ruby>言語<rt>げんご</rt></ruby>
+
+
+<ruby>超<rt>ちょう</rt></ruby>クールなすごい<ruby>奴<rt>やつ</rt></ruby>
+
+
+# Scratchの<ruby>開発画面<rt>かいはつがめん</rt></ruby>を<ruby>開<rt>ひせく</rt></ruby>く
 
 1. https://scratch.mit.edu/ にアクセスしてください。
 <img width="476" alt="scratch_rootpage.png" src="scratch_rootpage.png">
@@ -84,13 +92,13 @@ HelloWorld<ruby>症候群</ruby>にかかると「そもそも、プログラム
 2. "Create" ないし "<ruby>作</ruby>る" をクリックしてください
 <img width="476" alt="scratch_devpage.png" src="scratch_devpage.png">
 
-<ruby>開発画面</ruby>が<ruby>表示</ruby>されました。
+<ruby>開発画面<rt>かいはつがめん</rt></ruby>が<ruby>表示<rt>ひょうじ</rt></ruby>されました。
 
-この<ruby>画面</ruby>を<ruby>操作</ruby>して、ゲームを<ruby>作成</ruby>していきます。
+この<ruby>画面<rt>がめん</rt></ruby>を<ruby>操作<rt>そうさ</rt></ruby>して、ゲームを<ruby>作成<rt>さくせい</rt></ruby>していきます。
 
 
 # Good!!
 <img width="243" alt="good1.png" src="good.png">
 
 
-<ruby>良</ruby>くできました。<ruby>次</ruby>のステップに<ruby>進</ruby>みましょう!!
+<ruby>良<rt>よ</rt></ruby>くできました。<ruby>次<rt>つぎ</rt></ruby>のステップに<ruby>進<rt>すす</rt></ruby>みましょう!!
