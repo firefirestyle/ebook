@@ -32,6 +32,8 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 <ruby>私<rt>わたし</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったことがある<ruby>言語<rt>げんご</rt></ruby>の、いくつかを<ruby>解説<rt>かいせつ</rt></ruby>しましょう。
 
 #### C
+![](c.png)
+
 　1972<ruby>年<rt>ねん</rt>/ruby>にAT&Tベル<ruby>研究所<rt>けんきゅぅじょ</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
   <ruby>移植<rt>いしょく</rt></ruby>の<ruby>容易性<rt>よういせい</rt></ruby>、<ruby>自由度<rt>じゆうど</rt></ruby>、<ruby>実行速度<rt>じつこうそくど</rt></ruby>、を<ruby>追求<rt>ついきゅう</rt></ruby>した<ruby>手続<rt>てつづ</rt></ruby>き<ruby>型<rt>かた</rt></ruby>プログラミング<ruby>言語<rt>げんご</rt></ruby>です。
 　しかし、そのために、コンパイル<ruby>後<rt>ご</rt></ruby>の<ruby>安全性<rt>あんぜんせい</rt></ruby>を<ruby>犠牲<rt>ぎせい</rt></ruby>にしました。
@@ -44,6 +46,8 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
   Hacker<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>といって<ruby>良<rt><よ/rt></ruby>いです。
 
 #### Java
+![](java.png)
+
  1995<ruby>年<rt>ねん</rt></ruby>にサン・マイクロシステムズで<ruby>生<rt>う</rt></ruby>まれました。
  <ruby>最新鋭<rt>さいしんえい</rt></ruby>の <ruby>非同期処理<rt>ひどうきしょり</rt></ruby>、クラスベースのオブジェクト<ruby>指向<rt>しこう</rt></ruby>を、<ruby>標準装備<rt>ひょうじゅんそうび</rt></ruby>
 
@@ -53,12 +57,14 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 　<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>でした。
 
 #### JavaScript
+
  1996<ruby>年<rt>ねん</rt></ruby>にネットスケープコミュニケーションズで<ruby>生<rt>う</rt></ruby>まれた。もともとはLiveScriptと<ruby>呼<rt>よ</rt></ruby>ばれていたが、Javaの<ruby>人気<rt>にんき</rt></ruby>にあやかりJavaScriptと<ruby>改名<rt>かいめい</rt></ruby>した。
  プロトタイプベースのオブジェクト<ruby>指向<rt>しこう</rt></ruby>を<ruby>装備<rt>そうび</rt></ruby>しており。メジャーなWebブラウザー<ruby>上<rt>じょう</rt></ruby>で<ruby>動作<rt>どうさ</rt></ruby>する。
 
  Webページ<ruby>上</ruby>で<ruby>動作<rt>どうさ</rt></ruby>するプログラムを<ruby>書<rt><か/rt></ruby>くのに<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>であるる
 
 #### Lisp
+![](lisp.png)
  1958<ruby>年<rt>ねん</rt></ruby>にMITで<ruby>生<rt>う</rt></ruby>まれました。
 
  <ruby>高級言語<rt>こうきゅぅげんご</rt></ruby>としては、2<ruby>番目<rt>ばんめ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>で<ruby>最古<rt>さいこ</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>のひとつである。
@@ -69,6 +75,8 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 
 
 #### Scratch
+![](scratch.png)
+
 　2006<ruby>年<rt>ねん</rt></ruby>にMITメディアラボで<ruby>生<rt>う</rt></ruby>まれた。プログラミング<ruby>言語<rt>げんご</rt></ruby>を<ruby>学習<rt>がくしゅう</rt></ruby>する<ruby>人向<rt>ひとむ</rt></ruby>けに<ruby>開発<rt>かいはつ</rt></ruby>された<ruby>言語<rt>げんご</rt></ruby>です。「HelloWorld<ruby>症候群<rt>しょうこうぐん</rt></ruby>」の<ruby>特効薬<rt>とっこうやく</rt></ruby>である。
 
 
@@ -76,6 +84,7 @@ HelloWorld<ruby>症候群<rt>しょうこうぐん</rt></ruby>にかかると「
 
 
 #### Dart
+![](dart.png)
 
 この<ruby>記事<rt>きじ</rt></ruby>の<ruby>作者<rt>さくしゃ</rt></ruby>であるkyorohiroが<ruby>好<rt>す</rt></ruby>きな、<ruby>言語<rt>げんご</rt></ruby>
 
