@@ -1,35 +1,35 @@
 ![](wizerd.png)
 
 
-はじめようと<ruby>考<rt>かんが</rt></ruby>えた<ruby>時<rt>とき</rt></ruby>から <ruby>人<rt>ひと</rt></ruby>は<ruby>変</ruby>わり<ruby>始</ruby>めていると<ruby>思</ruby>いますわ
+はじめようと<ruby>考<rt>かんが</rt></ruby>えた<ruby>時<rt>とき</rt></ruby>から <ruby>人<rt>ひと</rt></ruby>は<ruby>変</ruby>わり<ruby>始</ruby>めていると<ruby>思<rt>おも</rt></ruby>いますわ
 
 # Scratch から<ruby>始</ruby>めよう
-「どんなプログラムでを<ruby>書</ruby>いてみたいですか?」
+「どんなプログラムでを<ruby>書<rt>か</rt></ruby>いてみたいですか?」
 
-「どんなアプリケーションを<ruby>作</ruby>ってみたいですが?」
+「どんなアプリケーションを<ruby>作<rt>つく</rt></ruby>ってみたいですが?」
 
-「プログラムを<ruby>書</ruby>いてみたいですか」
+「プログラムを<ruby>書<rt>か</rt></ruby>いてみたいですか」
 
-「なにか、あれこれ、<ruby>作</ruby>ってみたいですか」
+「なにか、あれこれ、<ruby>作<rt>つく</rt></ruby>ってみたいですか」
 
-「ロボットを<ruby>動</ruby>かしたりとか。」
+「ロボットを<ruby>動<rt>うご</rt></ruby>かしたりとか。」
 
-「ゲームを<ruby>作</ruby>ったりとか。」
-
-
- Scratch からプログラムを<ruby>始</ruby>めてみませんか!!
+「ゲームを<ruby>作<rt>つく</rt></ruby>ったりとか。」
 
 
-### Scratchなら、すぐに<ruby>始</ruby>められる
-プログラマーは<ruby>様々</ruby>な、<ruby>言語</ruby>を<ruby利用</ruby>してプログラムを<ruby>書</ruby>きます.
+ Scratch からプログラムを<ruby>始<rt>はじ</rt></ruby>めてみませんか!!
 
-もう、プログラム<ruby>言語</ruby>はたくさんあります。
+
+### Scratchなら、すぐに<ruby>始<rt>はじ</rt></ruby>められる
+プログラマーは<ruby>様々<rt>さまざま</rt></ruby>な、<ruby>言語<rt>げんご</rt></ruby>を<ruby利用<rt>りよう</rt></ruby>してプログラムを<ruby>書<rt><か/rt></ruby>きます.
+
+もう、プログラム<ruby>言語<rt>げんご</rt></ruby>はたくさんあります。
 https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7
 
-100<ruby>個</ruby><ruby>以上</ruby>ありますね。
+100<ruby>個<rt>こ</rt></ruby><ruby>以上<rt><いじょう/rt></ruby>ありますね。
 
 
-<ruby>私</ruby>が<ruby>使</ruby>ったことがある<ruby>言語</ruby>の、いくつかを<ruby>解説</ruby>しましょう。
+<ruby>私<rt>わたし</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったことがある<ruby>言語<rt>げんご</rt></ruby>の、いくつかを<ruby>解説<rt>かいせつ</rt></ruby>しましょう。
 
 #### C
 　1972<ruby>年</ruby>にAT&Tベル<ruby>研究所</ruby>で<ruby>生</ruby>まれました。
