@@ -32,15 +32,16 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 <ruby>私<rt>わたし</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったことがある<ruby>言語<rt>げんご</rt></ruby>の、いくつかを<ruby>解説<rt>かいせつ</rt></ruby>しましょう。
 
 #### C
-　1972<ruby>年</ruby>にAT&Tベル<ruby>研究所</ruby>で<ruby>生</ruby>まれました。
-  <ruby>移植</ruby>の<ruby>容易性</ruby>、<ruby>自由度</ruby>、<ruby>実行速度</ruby>、を<ruby>追求</ruby>した<ruby>手続</ruby>き<ruby>型</ruby>プログラミング<ruby>言語</ruby>です。
-　しかし、そのために、コンパイル<ruby>後</ruby>の<ruby>安全性</ruby>を<ruby>犠牲</ruby>にしました。
+　1972<ruby>年<rt>ねん</rt>/ruby>にAT&Tベル<ruby>研究所<rt>けんきゅぅじょ</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
+  <ruby>移植<rt>いしょく</rt></ruby>の<ruby>容易性<rt>よういせい</rt></ruby>、<ruby>自由度<rt>じゆうど</rt></ruby>、<ruby>実行速度<rt>じつこうそくど</rt></ruby>、を<ruby>追求<rt>ついきゅう</rt></ruby>した<ruby>手続<rt>てつづ</rt></ruby>き<ruby>型<rt>かた</rt></ruby>プログラミング<ruby>言語<rt>げんご</rt></ruby>です。
+　しかし、そのために、コンパイル<ruby>後<rt>ご</rt></ruby>の<ruby>安全性<rt>あんぜんせい</rt></ruby>を<ruby>犠牲<rt>ぎせい</rt></ruby>にしました。
 
-　そのため、<ruby>使</ruby>う<ruby>人</ruby>を<ruby>選</ruby>びます。
+　少しのミスで、メモリー<ruby>空間<rt>くうかん</rt></ruby>を、<ruby>破壊<rt>はかい</rt></ruby>しつくしてしまう<ruby>凶暴性<rt>きょうぼうせい</rt></ruby>から、
+　<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びます。
 
-　パフォーマンス<ruby>優先</ruby>で、<ruby>低</ruby>レベルのレイヤーもゴリゴリいじりたい<ruby>人向</ruby>けです。
-  ハッカーがよく<ruby>利用</ruby>するLinuxのカーネルは、90%<ruby>以上</ruby>がC<ruby>言語</ruby>で<ruby>書</ruby>かかれています。
-  Hacker<ruby>必須</ruby>の<ruby>言語</ruby>といって<ruby>良</ruby>いです。
+　パフォーマンス<ruby>優先<rt>ゆうせん</rt></ruby>で、<ruby>低<rt>てい</rt></ruby>レベルのレイヤーもゴリゴリいじりたい<ruby>人向<rt>ひとむけ</rt></ruby>けです。
+  ハッカーがよく<ruby>利用<rt>りよう</rt></ruby>するLinuxのカーネルは、90%<ruby>以上<rt>いじょう</rt></ruby>がC<ruby>言語<rt>げんご</rt></ruby>で<ruby>書<rt>かか</rt></ruby>かかれています。
+  Hacker<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>といって<ruby>良<rt><よ/rt></ruby>いです。
 
 #### Java
  1995年にサン・マイクロシステムズで生まれました。
