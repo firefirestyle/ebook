@@ -1,7 +1,10 @@
 ![](wizerd.png)
 
 
-はじめようと<ruby>考<rt>かんが</rt></ruby>えた<ruby>時<rt>とき</rt></ruby>から <ruby>人<rt>ひと</rt></ruby>は<ruby>変</ruby>わり<ruby>始</ruby>めていると<ruby>思<rt>おも</rt></ruby>いますわ
+A: まだ、<ruby>始<rt>はじ</rt></ruby>めたばかりで、<ruby>何<rt>なに</rt></ruby>もできませんけどね。
+
+T: はじめようと<ruby>考<rt>かんが</rt></ruby>えた<ruby>時<rt>とき</rt></ruby>から <ruby>人<rt>ひと</rt></ruby>は<ruby>変</ruby>わり<ruby>始</ruby>めていると<ruby>思<rt>おも</rt></ruby>いますわ
+
 
 # Scratch から<ruby>始</ruby>めよう
 「どんなプログラムでを<ruby>書<rt>か</rt></ruby>いてみたいですか?」
@@ -26,7 +29,7 @@
 もう、プログラム<ruby>言語<rt>げんご</rt></ruby>はたくさんあります。
 https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7
 
-100<ruby>個<rt>こ</rt></ruby><ruby>以上<rt><いじょう/rt></ruby>ありますね。
+100<ruby>個<rt>こ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ありますね。
 
 
 <ruby>私<rt>わたし</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったことがある<ruby>言語<rt>げんご</rt></ruby>の、いくつかを<ruby>解説<rt>かいせつ</rt></ruby>しましょう。
@@ -34,7 +37,7 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%8
 #### C
 ![](c.png)
 
-　1972<ruby>年<rt>ねん</rt>/ruby>にAT&Tベル<ruby>研究所<rt>けんきゅぅじょ</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
+　1972<ruby>年<rt>ねん</rt></ruby>にAT&Tベル<ruby>研究所<rt>けんきゅぅじょ</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
   <ruby>移植<rt>いしょく</rt></ruby>の<ruby>容易性<rt>よういせい</rt></ruby>、<ruby>自由度<rt>じゆうど</rt></ruby>、<ruby>実行速度<rt>じつこうそくど</rt></ruby>、を<ruby>追求<rt>ついきゅう</rt></ruby>した<ruby>手続<rt>てつづ</rt></ruby>き<ruby>型<rt>かた</rt></ruby>プログラミング<ruby>言語<rt>げんご</rt></ruby>です。
 　しかし、そのために、コンパイル<ruby>後<rt>ご</rt></ruby>の<ruby>安全性<rt>あんぜんせい</rt></ruby>を<ruby>犠牲<rt>ぎせい</rt></ruby>にしました。
 
