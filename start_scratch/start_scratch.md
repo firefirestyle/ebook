@@ -5,7 +5,7 @@
 
 
 
-# キャラクターを<ruby>動<rt>うご</rt></ruby>かしてみましょう
+# <ruby>簡単<rt>かんたん</rt></ruby>な、コードを<ruby>試<rt>ため</rt></ruby>してみましょう
 
 <img width="476" alt="capture_b1_1.png" src="dev001.png">
 
@@ -13,7 +13,7 @@
 <ruby>開<rt>ひら</rt></ruby>けてなければ、<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>記事<rt>きじ</rt></ruby>を<ruby>参照<rt>さんしょう</rt></ruby>してください。
 
 
-### <ruby>何<rt>なに</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたいですか?
+### <ruby>好<rt>す</rt></ruby>きなのを<ruby>選<rt>えら</rt></ruby>んでね?
 Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>したキャラクターを<ruby>自由<rt>じゆう</rt></ruby>に<ruby>操作<rt>そうさ</rt></ruby>できます。
 <ruby>操作<rt>そうさ</rt></ruby>してみましょう
 
