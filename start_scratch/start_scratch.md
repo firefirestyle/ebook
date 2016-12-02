@@ -55,32 +55,34 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 　
 # [2-1] 前進させてみる
 
-<img width="373" alt="move.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/9ee502b4-897b-8f5a-09d3-192c535aa0fe.png">
+<img width="373" alt="move.png" src="y000_move.png">
 
-1. イベントをクリック
-2. 旗がクリックされたときをドラック&ドロップ
-3. せいぎょをクリック
-4. ずっとをドラック&ドロップ
-5. うごきをクリック
-6. 10ほうごかすをドラックドロップ
-7. 旗をクリックすると、ネコが右に移動します。
-<img width="571" alt="firstpage_aa_z8a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/da668349-28c8-2f7a-7120-7ae5ca77b364.png">
+#### 1. イベントをクリック
+#### 2. 旗がクリックされたときをドラック&ドロップ
+#### 3. せいぎょをクリック
+#### 4. ずっとをドラック&ドロップ
+#### 5. うごきをクリック
+#### 6. 10ほうごかすをドラックドロップ
+#### 7. 旗をクリックすると、ネコが右に移動します。
 
-8. [5-1]に移動する
+<img width="571" alt="firstpage_aa_z8a.png" src="y001.png">
+
+#### 8. [5-1]に移動する
+
 
 # [3-1] ニャーと泣いてみる
 
-<img width="373" alt="firstpage_aa_z9a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/fd430130-f149-1486-bc81-21b04a060210.png">
+<img width="373" alt="firstpage_aa_z9a.png" src="x000_code.png">
 
-1. イベントをクリック
-2. 旗がクリックされたときをドラック&ドロップ
-3. 音をクリック
-4. meowとおとをならすをドラック&ドロップ
-5. 旗をクリックすると、ニャーと泣きます
+#### 1. イベントをクリック
+#### 2. 旗がクリックされたときをドラック&ドロップ
+#### 3. 音をクリック
+#### 4. meowとおとをならすをドラック&ドロップ
+#### 5. 旗をクリックすると、ニャーと泣きます
 
-<img width="571" alt="firstpage_aa_z10a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/62de5c64-99c9-2b02-56be-502ea7a4aa6e.png">
+<img width="571" alt="firstpage_aa_z10a.png" src="x001.png">
 
-6. [5-1]に移動する
+#### 6. [5-1]に移動する
 
 　
 　
@@ -89,20 +91,20 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 　
 
 # [4-1] ドレミと演奏してみる
-<img width="372" alt="cde_z.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/8791ce96-077c-7695-5c12-64b3fcebeb3e.png">
+<img width="372" alt="cde_z.png" src="w000_code.png">
 
-1. イベントをクリック
-2. 旗がクリックされたときをドラック&ドロップ
-3. 音をクリック
-4. がっきを1にする
-5. 60のおんぷを0.5はくならす
-6. 60のおんぷを0.5はくならす
-7. 60の部分を62にかえる
-8. 60のおんぷを0.5はくならす
-9. 60の部分を64にかえる
-10. 旗をクリックすると、ドレミとなります。
+#### 1. イベントをクリック
+#### 2. 旗がクリックされたときをドラック&ドロップ
+#### 3. 音をクリック
+#### 4. がっきを1にする
+#### 5. 60のおんぷを0.5はくならす
+#### 6. 60のおんぷを0.5はくならす
+#### 7. 60の部分を62にかえる
+#### 8. 60のおんぷを0.5はくならす
+#### 9. 60の部分を64にかえる
+#### 10. 旗をクリックすると、ドレミとなります。
 
-<img width="571" alt="firstpage_aa_z10a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/62de5c64-99c9-2b02-56be-502ea7a4aa6e.png">
+<img width="571" alt="firstpage_aa_z10a.png" src="w001.png">
 
 　
 　
@@ -110,7 +112,7 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 　
 　
 # [5-1] Good!!
-<img width="243" alt="good1.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/f4e75d32-5938-8ca2-1d5f-1d738980c13a.png">
+<img width="300" alt="good1.png" src="good.png">
 
 良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
 
