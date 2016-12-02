@@ -114,13 +114,30 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 # [5-1] Good!!
 <img width="300" alt="good1.png" src="good.png">
 
-良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
 
+どうでしょうか。<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>操作<rt>そうさ</rt></ruby>をしてみました。
 
-どうでしょうか。簡単な操作してみました。
+<ruby>物足<rt>ものた</rt></ruby>りないないですか?
+
 うーむ、そうですね
-私は、これから、
-* 歩行アニメーションを追加したり
-* 会話機能を利用して、寸劇を作ったり
 
-してみようかなと考えています。
+<ruby>私<rt>わたし</rt></ruby>は、これから、
+* <ruby>歩行<rt>ほこう</rt></ruby>アニメーションを<ruby>追加<rt>ついか</rt></ruby>したり
+* <ruby>会話機能<rt>かいわきのう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して、<ruby>寸劇<rt>すんげき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったり
+
+してみようかなと<ruby>考<rt>かんが</rt></ruby>えています。
+
+
+## Thanks
+
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、<ruby>次回<rt>じかい</rt><ruby>、また
+<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+<div>
+ではでは
+</div>
