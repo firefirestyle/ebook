@@ -29,23 +29,23 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 　
 ## [1-1] Helloとしゃべらせてみる
 
-<img width="571" alt="firstpage_aa_z1.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/90db13a2-f014-be82-7b75-f38945c85c36.png">
+<img width="571" alt="firstpage_aa_z1.png" src="z001.png">
 
-1. イベントをクリックしてください。
---> すると、以下のような画面に変わります。
-<img width="571" alt="firstpage_aa_z2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/19f4aee5-5c3f-fc6d-5256-518338253450.png">
+#### 1. イベントをクリックしてください。
+--> すると、<ruby>以下<rt>いか</rt></ruby>のような<ruby>画面<rt>がめん</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。
+<img width="571" alt="firstpage_aa_z2.png" src="z002.png">
 
-2. 「旗がクリックされたとき」を、右側の領域にドラッグ&ドロップ
-<img width="571" alt="firstpage_aa_z3a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/03cb6e46-58ef-73b7-1f2f-bdc2ca3b762c.png">
+#### 2. 「<ruby>旗<rt>はた</rt></ruby>がクリックされたとき」を、<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>領域<rt>りょういき</rt></ruby>にドラッグ&ドロップ
+<img width="571" alt="firstpage_aa_z3a.png" src="z003.png">
 
-3. "みため" をクリック
-<img width="571" alt="firstpage_aa_z4a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/63c9921f-1226-0443-7192-b1d13aec99dd.png">
+#### 3. "みため" をクリック
+<img width="571" alt="firstpage_aa_z4a.png" src="z004.png">
 
-4. "Helloと2びょういう"をドラック&ドロップして、"はたがクリックされたとき"につなげる
-<img width="571" alt="firstpage_aa_z6a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/40d06963-9f06-87be-334a-2851ef90a08b.png">
+#### 4. "Helloと2びょういう"をドラック&ドロップして、"はたがクリックされたとき"につなげる
+<img width="571" alt="firstpage_aa_z6a.png" src="z006.png">
 
-5. 旗をクリックすると、"Helloとネコが話します"
-<img width="571" alt="firstpage_aa_z7a.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/3e38f237-a24a-8eae-3efd-4801a8e0678c.png">
+#### 5. <ruby>旗<rt>はた</rt></ruby>をクリックすると、"Helloとネコが<ruby>話<rt>はな</rt></ruby>します"
+<img width="571" alt="firstpage_aa_z7a.png" src="z007.png">
 
 　
 　
@@ -53,7 +53,6 @@ Scratchでは、<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょ�
 　
 　
 　
-
 # [2-1] 前進させてみる
 
 <img width="373" alt="move.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/9ee502b4-897b-8f5a-09d3-192c535aa0fe.png">
