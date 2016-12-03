@@ -11,38 +11,52 @@
 * 共同作業したり
 
 
+## 参加してみる
+メールアドレスが必要になります。
 
 <img width="570" alt="z01.png" src="z01.png">
+「Scratchに参加しよう」をクリック
+
 
 <img width="570" alt="z02.png" src="z02.png">
+ユーザー名とパスワードを入力してから、「次へ」をクリック
+
 
 <img width="570" alt="z03.png" src="z03.png">
-
+生年月日等を入力してくてから、「次へ」をクリック
 
 <img width="571" alt="z04.png" src="z04.png">
+メールアドレスを入力してから、「次へ」をクリック
 
 <img width="571" alt="z05.png" src="z05.png">
 
+さぁ、はじめよう!をクリック
+
 <img width="571" alt="z06.png" src="z06.png">
 　
-　
-　
+メールが届いているはずなので、指定されたボタンを押して、Join完了です。
 　
 　
 　
 
+
+
+　
 ## 何か作って公開してみよう
 簡単なゲームを作って公開してみましょう
 
 ### 開発画面に移動する
 <img width="571" alt="z11.png" src="z11.png">
+作るをクリック
 
 <img width="571" alt="z12z.png" src="z12z.png">
 
 
 ### 何か書く
-
+何かコードを書いてみましょう。
 <img width="571" alt="z12b.png" src="z12b.png">
+アプリ名もいれようね。
+私は、Neko Jump という名前にしました。
 
 ###　保存する
 <img width="571" alt="z12c.png" src="z12c.png">
