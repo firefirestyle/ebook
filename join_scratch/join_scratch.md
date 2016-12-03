@@ -124,11 +124,34 @@ https://scratch.mit.edu/projects/133177809/
 
 
 
+## Thanks
+
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、<ruby>次回<rt>じかい</rt><ruby>、また
+<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+
+そして、<ruby>次回<rt>じじかい</rt></ruby>からは、ミニゲームを<ruby>作<rt>つく</rt></ruby>っていきます。
+
+
+<div>
+ではでは
+</div>
+
+
+
+
+
+
 
 　
-# おまけ : 会員登録しない人向け
+# おまけ : <ruby>会員登録<rt>かいいんとうろく</rt></ruby>しない<ruby>人向<rt>ひとむ</rt></ruby>け
 
-## PCに保存する
+## PCに<ruby>保存<rt>ほぞん</rt></ruby>する
 
 <img width="571" alt="おにごっこ　1 3 上下に逃げる Scratchで作成_5z.png" src="pc01.png">
 
@@ -138,18 +161,18 @@ https://scratch.mit.edu/projects/133177809/
 
 <img width="571" alt="おにごっこ　1 3 上下に逃げる Scratchで作成_6z.png" src="pc02.png">
 
-手元のコンピューターにダウンロード
+<ruby>手元<rt>てもと</rt></ruby>のコンピューターにダウンロード
 
 
 <img width="480" alt="スクリーンショット (378).png" src="pc03.png">
 
-1. 保存場所を選んで
-2. 保存
+1. <ruby>保存場所<rt>ほぞんばしょ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで
+2. <ruby>保存<rt>ほぞん</rt></ruby>
 
-※　わかりやすい名前にしようね!!
+※　わかりやすい<ruby>名前<rt>なまえ</rt></ruby>にしようね!!
 
 
-## PCから読み込む
+## PCから<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む
 
 <img width="286" alt="z1.png" src="pc11.png">
 
@@ -157,12 +180,12 @@ https://scratch.mit.edu/projects/133177809/
 
 <img width="286" alt="z2.png" src="pc12.png">
 
-手元のコンピュータからアップロード
+<ruby>手元<rt>てもと</rt></ruby>のコンピュータからアップロード
 
 <img width="288" alt="z2b.png" src="pc13.png">
 
-1. xxxx.sb2 と書かれてファイルをクリック
-2. 開くボタンをクリック
+1. xxxx.sb2 と<ruby>書<rt>か</rt></ruby>かれてファイルをクリック
+2. <ruby>開<rt>ひら</rt></ruby>くボタンをクリック
 
 <img width="286" alt="z3.png" src="pc14.png">
 
