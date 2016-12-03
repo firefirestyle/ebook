@@ -15,17 +15,21 @@
 メールアドレスが必要になります。
 
 <img width="570" alt="z01.png" src="z01.png">
+
 「Scratchに参加しよう」をクリック
 
 
 <img width="570" alt="z02.png" src="z02.png">
+
 ユーザー名とパスワードを入力してから、「次へ」をクリック
 
 
 <img width="570" alt="z03.png" src="z03.png">
+
 生年月日等を入力してくてから、「次へ」をクリック
 
 <img width="571" alt="z04.png" src="z04.png">
+
 メールアドレスを入力してから、「次へ」をクリック
 
 <img width="571" alt="z05.png" src="z05.png">
@@ -105,27 +109,48 @@ https://scratch.mit.edu/projects/133177809/
 
 
 
+
+　
 # おまけ : 会員登録しない人向け
 
 ## PCに保存する
 
 <img width="571" alt="おにごっこ　1 3 上下に逃げる Scratchで作成_5z.png" src="pc01.png">
 
+ファイル
+
+
+
 <img width="571" alt="おにごっこ　1 3 上下に逃げる Scratchで作成_6z.png" src="pc02.png">
+
+手元のコンピューターにダウンロード
+
 
 <img width="480" alt="スクリーンショット (378).png" src="pc03.png">
 
+1. 保存場所を選んで
+2. 保存
+
+※　わかりやすい名前にしようね!!
+
+
 ## PCから読み込む
 
-1. まずは、開発画面を開いてください
 <img width="286" alt="z1.png" src="pc11.png">
 
+ファイルをクリック
 
-2. ファイル
 <img width="286" alt="z2.png" src="pc12.png">
+
+手元のコンピュータからアップロード
 
 <img width="288" alt="z2b.png" src="pc13.png">
 
+1. xxxx.sb2 と書かれてファイルをクリック
+2. 開くボタンをクリック
+
 <img width="286" alt="z3.png" src="pc14.png">
+
+OKボタンをクリックする。
 
 <img width="286" alt="z4.png" src="pc15.png">
