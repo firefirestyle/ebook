@@ -47,6 +47,7 @@
 
 ### 開発画面に移動する
 <img width="571" alt="z11.png" src="z11.png">
+
 作るをクリック
 
 <img width="571" alt="z12z.png" src="z12z.png">
@@ -56,19 +57,30 @@
 何かコードを書いてみましょう。
 <img width="571" alt="z12b.png" src="z12b.png">
 アプリ名もいれようね。
+
 私は、Neko Jump という名前にしました。
 
-###　保存する
-<img width="571" alt="z12c.png" src="z12c.png">
+### 保存する
+<img width="571" alt="z12d.png" src="z12d.png">
+1. ファイル
+2. ただちに保存
+
 
 ### 公開する
 
 <img width="571" alt="z12b2.png" src="z12b2.png">
 
+プロジェクトページ参照　をクリック
+
 <img width="571" alt="z13.png" src="z13.png">
 
+共有ボタンをクリックすると、公開されます。
+公開されると、他の人も見に来るので、
+使い方とかも、書くようにしましょう。
 
+kyorohiroは、以下に公開しました。
 https://scratch.mit.edu/projects/133177809/
+
 
 
 
