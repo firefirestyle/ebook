@@ -116,10 +116,8 @@ https://scratch.mit.edu/projects/133177809/
 # [5-1] Good!!
 <img width="243" alt="good1.png" src="good.png">
 
-良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
+<ruby>良<rt>よ</rt></ruby>くできました。<ruby>次<rt>つぎ</rt></ruby>のステップに<ruby>進<rt>すす</rt></ruby>みましょう!!
 
-
-してみようかなと考えています。
 
 
 
