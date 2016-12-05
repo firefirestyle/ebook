@@ -64,7 +64,8 @@ https://scratch.mit.edu/projects/133004465/
 　
 　
 　
-## 上下左右に移動できるようにしよう
+## <ruby>上下左右<rt>じょうげさゆう</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>できるようにしよう
+
 <img width="500" alt="z003.png" src="z003.png">
 
 
