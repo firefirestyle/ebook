@@ -12,7 +12,7 @@
 
 
 　
-# SplatoonをHackしよう
+# イカのインクゲームをHackしよう
 
 
 ## Scratchを<ruby>開<rt>ひら</rt></ruby>こう

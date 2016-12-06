@@ -1,7 +1,7 @@
-# Splatoon は、対戦相手がいるゲームですね
+# Splatoon は、<ruby>対戦相手<rt>たいせんあいて</rt></ruby>がいるゲームですね
 
 
-## 対戦相手を追加する
+## <ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>する
 
 <img width="571" alt="z100a.png" src="z100a.png">
 
@@ -13,42 +13,47 @@
 　
 　
 　
-## 対戦相手も手動で動作させます
-Sprite1に追加した機能と、ほとんど同じです。
-同じように、コードを追加しても良いですが
+## <ruby>対戦相手<rt>たいせんあいて</rt></ruby>も<ruby>手動<rt>しゅどう</rt></ruby>で<ruby>動作<rt>どうさ</rt></ruby>させます
+
+Sprite1に<ruby>追加<rt>ついか</rt></ruby>した<ruby>機能<rt>きのう</rt></ruby>と、ほとんど<ruby>同<rt>おな</rt></ruby>じです。
+
+<ruby>同<rt>おな</rt></ruby>じように、コードを<ruby>追加<rt>ついか</rt><ruby>しても<ruby>良<rt>よ</rt></ruby>いですが
 ショートカットしてみましょう。
 
-#### Sprite1のコードを表示する
+
+
+
+#### Sprite1のコードを<ruby>表示<rt>ひょうじ</rt></ruby>する
 <img width="571" alt="z101.png" src="z101.png">
 
 
 
 
 #### コピーする
-##### Shiftキーを押しながら、左クリック
+##### Shiftキーを<ruby>押<rt>お</rt></ruby>しながら、<ruby>左<rt>ひだり</rt></ruby>クリック
 <img width="857" alt="z102.png" src="z102.png">
 
 
-##### 複製をクリック
+##### <ruby>複製<rt>ふくせい</rt></ruby>をクリック
 <img width="571" alt="z103.png" src="z103.png">
 
 
-#### コピーできたことを確認する
+#### コピーできたことを<ruby>確認<rt>かくにん</rt></ruby>する
 <img width="571" alt="z103a.png" src="z103a.png">
 
 
 <img width="571" alt="z104.png" src="z104.png">
 
 
-### 動作確認してみよう!!
+### <ruby>動作確認<rt>どうさかくにん</rt></ruby>してみよう!!
 https://scratch.mit.edu/projects/133015084/
 
 <img width="571" alt="z105.png" src="z105.png">
 
 
 
-1. 旗をクリック
-2. 右矢印キーを押すと、キャラクターが右に移動することを、確認してください
+1. <ruby>旗<rt>はた</rt></ruby>をクリック
+2. <ruby>右<rt>みぎ</rt></ruby><ruby>矢印<rt>やじるし</rt></ruby>キーを<ruby>押<rt>お</rt></ruby>すと、キャラクターが<ruby>右<rt>みぎ</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>することを、<ruby>確認<rt>かくにん</rt></ruby>してください
 
 ### Good!!
 ![good.png](good.png)
@@ -80,3 +85,24 @@ https://scratch.mit.edu/projects/133027676/
 
 ### Good!!
 ![good.png](good.png)
+
+
+
+　　
+　
+## Thanks
+
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、<ruby>次回<rt>じかい</rt><ruby>、また
+<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+
+そして、<ruby>次回<rt>じかい</rt></ruby>は、この続きをやります。
+
+<div>
+ではでは
+</div>
