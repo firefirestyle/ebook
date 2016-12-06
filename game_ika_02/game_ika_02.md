@@ -36,7 +36,7 @@
 2. Giga をクリック
 3. OK をクリック
 
-<img width="571" alt="z15.png" src="z15.png">
+
 　
 　
 　
@@ -53,23 +53,32 @@ Sprite1に<ruby>追加<rt>ついか</rt></ruby>した<ruby>機能<rt>きのう</
 
 
 #### Sprite1のコードを<ruby>表示<rt>ひょうじ</rt></ruby>する
+<img width="571" alt="z15.png" src="z15.png">
+
+1. Sprite1をクリック
+2. スクリプトタブをクリック
+
 <img width="571" alt="z101.png" src="z101.png">
 
+1. 旗がクリックされたらに、マウスカーソルを合わせる
+2. Shiftキーを押しながら、クリックする
 
 
-
-#### コピーする
-##### Shiftキーを<ruby>押<rt>お</rt></ruby>しながら、<ruby>左<rt>ひだり</rt></ruby>クリック
 <img width="857" alt="z102.png" src="z102.png">
 
+1. <ruby>複製<rt>ふくせい</rt></ruby>をクリック
 
-##### <ruby>複製<rt>ふくせい</rt></ruby>をクリック
 <img width="571" alt="z103.png" src="z103.png">
+
+1. Gigaにカーソルを合わせて
+2. クリックする
 
 
 #### コピーできたことを<ruby>確認<rt>かくにん</rt></ruby>する
 <img width="571" alt="z103a.png" src="z103a.png">
 
+1. Gigaをクリック
+2. スクリブトタブをクリック
 
 <img width="571" alt="z104.png" src="z104.png">
 
