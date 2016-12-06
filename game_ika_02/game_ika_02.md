@@ -1,3 +1,26 @@
+![](magic.png)
+
+あなたの「したいこと」は、あなたのものです。
+
+<ruby>今日<rt>きょう</rt></ruby>はイカのインクゲームを<ruby>作<rt>つく</rt></ruby>るけど、
+
+<ruby>人<rt>ひと</rt></ruby>に<ruby>言<rt>い</rt></ruby>えないの「キャー」なことや「キャハ」なこととか
+
+どんどん<ruby>試</ruby>すと<ruby>良<rt>よ</rt></ruby>いよ。
+
+うーん、とりあえず、<ruby>全部<rt>ぜんぶ</rt></ruby>のプロックを<ruby>使<rt>つか</rt></ruby>ってみる。
+
+とか。ださいかな。
+
+まぁ、<ruby>私<rt>わたし</ry><ruby>は<ruby>試<rt>ため</rt></ruby>しちゃいましたけどね。
+
+そういうの<ruby>好<rt>す</rt></ruby>きなんです。
+
+
+なんでもどうぞ。
+
+
+
 # Splatoon は、<ruby>対戦相手<rt>たいせんあいて</rt></ruby>がいるゲームですね
 
 
