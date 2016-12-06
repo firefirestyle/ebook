@@ -12,7 +12,7 @@
 
 とか。ださいかな。
 
-まぁ、<ruby>私<rt>わたし</ry><ruby>は<ruby>試<rt>ため</rt></ruby>しちゃいましたけどね。
+まぁ、<ruby>私<rt>わたし</ry></ruby>は<ruby>試<rt>ため</rt></ruby>しちゃいましたけどね。
 
 そういうの<ruby>好<rt>す</rt></ruby>きなんです。
 
@@ -28,7 +28,13 @@
 
 <img width="571" alt="z100a.png" src="z100a.png">
 
+キャラクター<ruby>追加<rt>ついか</rt></ruby>アイコンをクリックする
+
 <img width="571" alt="z14.png" src="z14.png">
+
+1. ファンタジー をクリック
+2. Giga をクリック
+3. OK をクリック
 
 <img width="571" alt="z15.png" src="z15.png">
 　
