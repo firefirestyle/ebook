@@ -67,16 +67,16 @@ https://scratch.mit.edu/projects/133015084/
 
 
 
-# 異なるキーを割り振るのと
-上下左右キーを押すと、同じ方向にキャラクターが動作するので
+# <ruby>異<rt>こと</rt></runy>なるキーを<ruby>割<rt>わ</rt></ruby>り<ruby>振<rt>ふ</rt></ruby>るのと
+<ruby>上下左右<rt>じょうげさゆう</rt></ruby>キーを<ruby>押<rt>お</rt></ruby>すと、<ruby>同<rt>おな</rt></ruby>じ<ruby>方向<rt>ほうこう</rt></ruby>にキャラクターが<ruby>動作<rt>どうさ</rt></ruby>するので
 ゲームになりません。
 
-Gigaのコードを修正してみましょう
-異なるキーとペンの色を割り振ってください
+Gigaのコードを<ruby>修正<rt>しゅうせい</rt></ruby>してみましょう
+<ruby>異<rt>こと</rt><ruby>なるキーとペンの<ruby>色<rt>いろ</rt></ruby>を<ruby>割<rt>わ</rt></ruby>り<ruby>振<rt>ふ</rt></ruby>ってください
 
 <img width="326" alt="z201a.png" src="z201a.png">
 
-## 動作確認する
+## <ruby>動作確認<rt>どうさかくにん</rt></ruby>する
 https://scratch.mit.edu/projects/133027676/
 
 <img width="571" alt="z202.png" src="z202.png">
