@@ -51,6 +51,17 @@ https://scratch.mit.edu/projects/134871575/
 ![](good.png)
 
 
+## どちらの色が多いか判定する
+![](v303.png)
+
+
+
+### 確認する
+![](v304.png)
+
+
+### Good!!
+![](good.png)
 
 
 
