@@ -46,7 +46,7 @@
 
 Sprite1に<ruby>追加<rt>ついか</rt></ruby>した<ruby>機能<rt>きのう</rt></ruby>と、ほとんど<ruby>同<rt>おな</rt></ruby>じです。
 
-<ruby>同<rt>おな</rt></ruby>じように、コードを<ruby>追加<rt>ついか</rt><ruby>しても<ruby>良<rt>よ</rt></ruby>いですが
+<ruby>同<rt>おな</rt></ruby>じように、コードを<ruby>追加<rt>ついか</rt></ruby>しても<ruby>良<rt>よ</rt></ruby>いですが
 ショートカットしてみましょう。
 
 
@@ -60,8 +60,8 @@ Sprite1に<ruby>追加<rt>ついか</rt></ruby>した<ruby>機能<rt>きのう</
 
 <img width="571" alt="z101.png" src="z101.png">
 
-1. 旗がクリックされたらに、マウスカーソルを合わせる
-2. Shiftキーを押しながら、クリックする
+1. 「<ruby>旗<rt>はた</rt></ruby>がクリックされたら」に、マウスカーソルを合わせる
+2. Shiftキーを<ruby>押<rt>お</rt></ruby>しながら、クリックする
 
 
 <img width="857" alt="z102.png" src="z102.png">
@@ -70,7 +70,7 @@ Sprite1に<ruby>追加<rt>ついか</rt></ruby>した<ruby>機能<rt>きのう</
 
 <img width="571" alt="z103.png" src="z103.png">
 
-1. Gigaにカーソルを合わせて
+1. Gigaにカーソルを<ruby>合<rt>あ</rt></ruby>わせて
 2. クリックする
 
 
