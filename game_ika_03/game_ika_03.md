@@ -64,6 +64,29 @@ https://scratch.mit.edu/projects/134871575/
 ![](good.png)
 
 
+## Thanks
+
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、また<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+
+<ruby>次回<rt>じかい</rt><ruby>は、リミックスを利用して、
+コラボレーションしてみましょう。
+
+<div>
+ではでは
+</div>
+
+
+
+
+
+
+
 
 
 　
