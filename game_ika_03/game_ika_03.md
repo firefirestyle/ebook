@@ -20,4 +20,8 @@
 
 
 #### 動作確認しよう
+https://scratch.mit.edu/projects/134871575/
 ![](v003.png)
+
+
+## A
