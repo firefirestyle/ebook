@@ -12,7 +12,8 @@
 
 そして、その<ruby>向<rt>む</rt></ruby>こう
 
-.... と<ruby>唱<rt>とな</rt></ruby>えた
+<ruby>靜<rt>しず</rt></ruby>かに、<ruby>唱<rt>とな</rt></ruby>えた
+
 
 
 # ゲームっぽくしていきましょう。
@@ -73,12 +74,14 @@ https://scratch.mit.edu/projects/134871575/
 ### <ruby>確認<rt>かくにん</rt></ruby>する
 ![](v204.png)
 
-### Good!!
-![](good.png)
-
 1. <ruby>旗<rt>はた</rt></ruby>をクリック
 2. 30<ruby>秒経過前<rt>びょうけいかまえ</rt></ruby>は、キャラクターが<ruby>移動<rt>いどう</rt></ruby>できること
 3. 30<ruby>秒経過後<rt>びょうけいかあと</rt></ruby>は、キャラクターが<ruby>移動<rt>いどう</rt></ruby>できないこと
+
+
+### Good!!
+![](good.png)
+
 
 
 
@@ -89,11 +92,17 @@ https://scratch.mit.edu/projects/134871575/
 
 ![](v303.png)
 
-
+※　変数を作る際は、「すべてのスプライト」を選択してください。
 
 ### <ruby>確認<rt>かくにん</rt></ruby>する
+https://scratch.mit.edu/projects/134917820/
+
 ![](v304.png)
 
+1. <ruby>旗<rt>はた</rt></ruby>をクリックする
+2. キャラクターを<ruby>操作<rt>そうさ</rt></ruby>できること
+3. Bat2がカウントしていること　　　
+4. 30<ruby>秒<rt>びょう</rt></ruby><ruby>経過<rt>けいか</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、<ruby>採点<rt>さいてん</rt></ruby>が<ruby>始<rt>はじ<rt></ruby>まること
 
 ### Good!!
 ![](good.png)
