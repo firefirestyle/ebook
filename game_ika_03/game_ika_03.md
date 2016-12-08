@@ -20,6 +20,11 @@
 <ruby>勝敗<rt>しょうはい</rt></ruby>を<ruby>判定<rt>はんてい</rt></ruby>する<ruby>機能<rt>きのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>してみましょう。
 
 
+<ruby>今回<rt>こんかい</rt></ruby>は<ruby>難易度<rt>なんいど</rt></ruby>がすこし<ruby>高<rt>たか</rt></ruby>いです。
+<ruby>一気<rt>いっき</rt></ruby>に<ruby>突破<rt>とっぱ</rt></ruby>できた<ruby>君<rt>きみ</rt></ruby>はスゴイ
+
+<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けて<ruby>挑戦<rt>ちょうせん</rt></ruby>してね!!
+
 
 ## Bat2を<ruby>追加<rt>ついか</rt></ruby>
 キャラクターを<ruby>追加<rt>ついか</rt></ruby>してみましょう!!
