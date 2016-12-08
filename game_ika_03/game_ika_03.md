@@ -26,11 +26,15 @@ https://scratch.mit.edu/projects/134871575/
 ![](v003.png)
 
 
-## 30秒すぎたら動けなくする
-###  [-] Timeoutという変数を追加しましょう
+## 30<ruby>秒<rt>びょう</rt></ruby>すぎたら動けなくする
+###  [-] Timeoutという<ruby>変数<rt>へんすう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>しましょう
+
 ![](v101.png)
+1. データをクリック
+2. 変数を作るをクリック
 
 ![](v102.png)
+
 
 ![](v103.png)
 
