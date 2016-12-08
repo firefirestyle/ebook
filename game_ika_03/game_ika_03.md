@@ -1,4 +1,19 @@
-#
+![](magic.png)
+
+<ruby>砂<rt>すな</rt></ruby>の<ruby>感触<rt>かんしょく</rt></ruby>
+
+<ruby>潮<rt>しお</rt></ruby>の<ruby>香<rt>かお</rt></ruby>り
+
+<ruby>波<rt>なみ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>
+
+<ruby>青<rt>あお</rt></ruby>い<ruby>空<rt>そら</rt></ruby>
+
+<ruby>星<rt>ほし</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>り<ruby>香<rt>か</rt></ruby>
+
+そして、その<ruby>向<rt>む</rt></ruby>こう
+
+.... と<ruby>唱<rt>とな</rt></ruby>えた
+
 
 # ゲームっぽくしていきましょう。
 <ruby>勝敗<rt>しょうはい</rt></ruby>を<ruby>判定<rt>はんてい</rt></ruby>する<ruby>機能<rt>きのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>してみましょう。
