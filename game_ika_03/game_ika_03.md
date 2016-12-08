@@ -35,8 +35,13 @@ https://scratch.mit.edu/projects/134871575/
 
 ![](v102.png)
 
+1. <ruby>変数名<rt>へんすうめい</rt></ruby>は timeout にする
+2. すべてのスプライトをクリック
+3. OKボタンを<ruby>押<rt>お</rt></ruby>す
 
 ![](v103.png)
+
+1. <ruby>選択肢<rt>せんたくし</rt></ruby>を<ruby>外<rt>はず</rt></ruby>して、<ruby>非表示<rt>ひひょうじ</rt></ruby>にする
 
 ![](v104.png)
 
