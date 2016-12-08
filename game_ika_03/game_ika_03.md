@@ -45,13 +45,14 @@ https://scratch.mit.edu/projects/134871575/
 
 ![](v104.png)
 
-### [-] Bat2にコードを変更する
+### [-] Bat2のコードを<ruby>変更<rt>へんこう</rt></ruby>する
 ![](v201.png)
 
-### [-] Sprite1のコードを変更する
+
+### [-] Sprite1のコードを<ruby>変更<rt>へんこう</rt></ruby>する
 ![](v202.png)
 
-### [-] Gigaのコードを変更する
+### [-] Gigaのコードを<ruby>変更<rt>へんこう</rt></ruby>する
 ![](v203.png)
 
 ### 確認する
@@ -59,6 +60,12 @@ https://scratch.mit.edu/projects/134871575/
 
 ### Good!!
 ![](good.png)
+
+1. <ruby>旗<rt>はた</rt></ruby>をクリック
+2. 30<ruby>秒経過前<rt>びょうけいかまえ</rt></ruby>は、キャラクターが<ruby>移動<rt>いどう</rt></ruby>できること
+3. 30<ruby>秒経過後<rt>びょうけいかあと</rt></ruby>は、キャラクターが<ruby>移動<rt>いどう</rt></ruby>できないこと
+
+
 
 
 ## どちらの色が多いか判定する
