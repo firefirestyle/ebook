@@ -14,12 +14,13 @@
 3. Bat2をクリック
 4. OKをクリック
 
-## Bat2に30秒、数えてもらう
-#### コードを追加する
+## Bat2に30<ruby>秒<rt>びょう</rt></ruby>、<ruby>数<rt>かぞ</rt></ruby>えてもらう
+
+#### コードを<ruby>追加<rt>ついか</rt><ruby>する
 ![](v002.png)
 
 
-#### 動作確認しよう
+#### <ruby>動作確認<rt>どうさかくにん</rt></ruby>しよう
 https://scratch.mit.edu/projects/134871575/
 
 ![](v003.png)
