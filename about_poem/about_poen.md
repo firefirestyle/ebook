@@ -36,6 +36,7 @@
 >
 >
 
+
 <ruby>作<rt>つく</rt></ruby>りたいものは<ruby>何<rt>なに</rt></ruby>ですか?とだけ<ruby>問<rt>と</rt></ruby>いかけると。
 
 <ruby>現状<rt>げんじょう</rt></ruby>の能力で作りたいものをイメージしてしまうので、その<ruby>対策<rt>たいさく</rt></ruby>です
@@ -53,16 +54,18 @@
 　　
 ### プログラムするために、プログラムする
 
-「<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>行為<rt>こうい</rt></ruby>」も、ゴールの<ruby>設定<rt>せってい</rt></ruby>に<ruby>干渉<rt>かんしょう</rt></ruby>されると、その「<ruby>興味<rt>きょうみ/rt></ruby>が<ruby>減少<rt>げんしょう</rt></ruby>」してしまう事があります。
+「<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>行為<rt>こうい</rt></ruby>」も、ゴールの<ruby>設定<rt>せってい</rt></ruby>に<ruby>干渉<rt>かんしょう</rt></ruby>されると、その「<ruby>興味<rt>きょうみ/rt></ruby>が<ruby>減少<rt>げんしょう</rt></ruby>」してしまう事があります。
 
-<ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>考<rt>かんかが</rt></ruby>えよう。
+<ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えよう。
 
 #### ゴールに<ruby>関係<rt>かんけい</rt></ruby>ない、<ruby>報酬<rt>ほうしゅう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えると<ruby>悪影響<rt>あくえいきょう</rt></ruby>
 [Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis.](http://bit.ly/2h9vq7P)
 
 3つのクラスに<ruby>分<rt>わ</rt></ruby>けて<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>く<ruby>実験<rt>じっけん</rt></ruby>をしました。
 
-<ruby>子供達<rt>こどもたち</rt></ruby>に<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>画材<rt>がざい</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>され3つのパターンで<ruby>絵<rt>え</rt></ruby>を<ruby>書<rt>か</rt></ruby>かされました。
+<ruby>子供達<rt>こどもたち</rt></ruby>に<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>画材<rt>がざい</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>され<ruby>絵<rt>え</rt></ruby>を<ruby>書<rt>か</rt></ruby>かされました。
+
+この時、<ruby>以下</ruby>のような、<ruby>干渉<rt>かんしょう</rt></ruby>をうけました。
 
 * expected-award    
 <ruby>上手<rt>うま</rt></ruby>く<ruby>描<rt>か</rt></ruby>けたら、<ruby>賞状<rt>しょうじょう</rt></ruby>をもらえると<ruby>教<rt>おし</rt></ruby>えたあとで、<ruby>絵<rt>え</rt></ruby>をかかせて
