@@ -57,33 +57,33 @@
 
 <ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>考<rt>かんかが</rt></ruby>えよう。
 
-#### ゴールに関係ない、報酬を与えると悪影響
+#### ゴールに<ruby>関係<rt>かんけい</rt></ruby>ない、<ruby>報酬<rt>ほうしゅう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えると<ruby>悪影響<rt>あくえいきょう</rt></ruby>
 [Undermining children's intrinsic interest with extrinsic reward: A test of the "overjustification" hypothesis.](http://bit.ly/2h9vq7P)
 
-3つのクラスに分けて絵を描く実験しました。子供達に特別な画材が渡され3つのパターンで絵を書かされました。
+3つのクラスに<ruby>分<rt>わ</rt></ruby>けて<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>く<ruby>実験<rt>じっけん</rt></ruby>をしました。
 
-* expected-award
-上手く描けたら、賞状をもらえると教えたあとで、絵をかかせて
-書き終わったら、賞状をあげたグループ
-* unexpected-award
-書き終わった後で、賞状を与えられたグループ
-* no-award
-何も与えられなかったグループ
+<ruby>子供達<rt>こどもたち</rt></ruby>に<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>画材<rt>がざい</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>され3つのパターンで<ruby>絵<rt>え</rt></ruby>を<ruby>書<rt>か</rt></ruby>かされました。
+
+* expected-award    
+<ruby>上手<rt>うま</rt></ruby>く<ruby>描<rt>か</rt></ruby>けたら、<ruby>賞状<rt>しょうじょう</rt></ruby>をもらえると<ruby>教<rt>おし</rt></ruby>えたあとで、<ruby>絵<rt>え</rt></ruby>をかかせて
+<ruby>描<rt>か</rt></ruby>き<ruby>終<rt>お</rt></ruby>わったら、<ruby>賞状<rt>しょうじょう</rt></ruby>をあげる
+* unexpected-award    
+<ruby>描<rt>か</rt></ruby>き<ruby>終<rt>お</rt></ruby>わったら、<ruby>賞状<rt>しょうじょう</rt></ruby>をあげる
+* no-award    
+<ruby>何<rt>なに</rt></ruby>も<ruby>与<rt>あた</rt></ruby>えられなかったグループ
 
 
- 一週間後、再び、特別な画材で絵を描いてもらって、その絵を評価すると、expected-awardのグループだけ、評価が下がりました。
-
-#### 注意しよう
-大人が関心を増大させるために、報酬を与えたりする事がありますね。
-
+<ruby> 一週間後<rt>いっしゅうかんご</rt></ruby>、<ruby>再<rt>ふたた</rt></ruby>び、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>画材<rt>がざい</rt></ruby>で<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>いてもらって、その<ruby>絵<rt>え</rt></ruby>を<ruby>評価<rt>ひょうか</rt></ruby>すると、expected-awardのグループだけ、<ruby>評<rt>ひょうか</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がりました。
 
 
 　
 
-#### どのようにして、子供の関心を増大させるか
-では、どんなアプローチを取るとよいのでしょうか?
-火の型は、「そうなんだー」。「へぇー」くらいで読んでもらってですね。
-以下の本がオススメです。
+#### どのようにして、<ruby>子供<rt>こども</rt></ruby>の<ruby>関心<rt>かんしん</rt></ruby>を<ruby>増大<rt>ぞうだい</rt></ruby>させるか
+
+では、どんなアプローチを<ruby>取<rt>と</rt></ruby>るとよいのでしょうか?
+<ruby>火<rt>ひ</rt></ruby>の<ruby>型<rt>かた</rt></ruby>のアプローチについては、「そうなんだー」。「へぇー」くらいで<ruby>読<rt>よ</rt></ruby>んでもらってですね。
+
+<ruby>以下<rt>いか</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>がオススメです。
 
 
 
@@ -98,15 +98,20 @@
 
 　
 
+## Thanks
+
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、<ruby>次回<rt>じかい</rt><ruby>、また
+<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+
+そして、<ruby>次回<rt>じかい</rt></ruby>からは、Scratchのリミックスについて、<ruby>説明<rt>せつめい</rt></ruby>します。
 
 
-##### 火の型のアプローチ
-プログラムする事の報酬はプログラムをする事です。
-そういう方針です。今のところ。
-
-別のゴールがある子が、そのゴールが報酬です。
-
-
-雑念をとっても世の中をみてみましょう。
-やりたい事だらけではありません。
-火の型では、それらをサポートしたいのです。
+<div>
+ではでは
+</div>
