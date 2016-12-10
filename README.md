@@ -9,3 +9,4 @@
 * [6日目 : プログラムをするために、フログラムをする!! 「イカのインクゲーム」をハックする (2) ](game_ika_02/game_ika_02.md)
 * [7日目 : 野望に忠実であれ!! 「イカのインクゲーム」をハックする (3) ](game_ika_03/game_ika_03.md)
 * [8日目 : 一休み一休み](about_poem/about_poem.md)
+* [9日目 : リミックス](remix_project\remix_project.md)
