@@ -1,3 +1,7 @@
+
+
+
+
 # <ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったアプリを<ruby>改造<rt>かいぞう</rt></ruby>してみよう
 
 
@@ -61,7 +65,7 @@ https://scratch.mit.edu/projects/70585874/
 
 「OK Got it」をクリック
 
-### 公開してみましょう。どのプロジェクトを改造したもの表示れます
+### <ruby>公開<rt>こうかい</rt></ruby>してみましょう。どのプロジェクトを<ruby>改造<rt>かいぞう</rt></ruby>したものかが<ruby>表示<rt>ひょうじ</rt></ruby>れます
 
 ![](v006.png)
 
