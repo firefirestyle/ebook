@@ -1,4 +1,9 @@
-# 他の人が作ったアプリを改造してみよう
+# <ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったアプリを<ruby>改造<rt>かいぞう</rt></ruby>してみよう
+
+
+Scratchには、リミックスという<ruby>機能<rt>きのう</rt></ruby>があります。
+
+この<ruby>機能<rt>きのう/rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>すると、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったゲームやアートに<ruby>変更<rt>へんこう</rt></ruby>を<ruby>加<rt>く</rt></ruby>えて<ruby>公開<rt>こうかい</rt></ruby>することができます。
 
 
 ## <ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったものも<ruby>遊<rt>あそ</rt></ruby>べる
