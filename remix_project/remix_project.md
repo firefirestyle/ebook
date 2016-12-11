@@ -1,8 +1,9 @@
 # 他の人が作ったアプリを改造してみよう
 
 
-## 他の人が作ったものも遊べる
-Scratchで作成されたアプリを検索することができます。
+## <ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったものも<ruby>遊<rt>あそ</rt></ruby>べる
+
+Scratchでは、<ruby>作成<rt>さくせい</rt></ruby>されたアプリを<ruby>検索<rt>けんさく</rt></ruby>することができます。
 
 ![](v001.png)
 
