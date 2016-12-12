@@ -1,16 +1,15 @@
-
-```
-
+![](magic.png)
 
 
-　
-　
+<ruby>火<rt>ひ</rt></ruby>と<ruby>水<rt>みず</rt></ruby>
 
-```
+<ruby>水<rt>みず</rt></ruby>と<ruby>土<rt>つち</rt></ruby>
 
-一見複雑なものも、単純な機能の組み合わせでできています。
+<ruby>土<rt>つち</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>
 
+<ruby>風<rt>かぜ</rt></ruby>と<ruby>空<rt>くう</rt></ruby>
 
+<ruby>一見<rt>いっけん</rt></ruby><ruby>複雑<rt>ふくざつ</rt></ruby>なものも、<ruby>単純<rt>たんじゅん</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>の<ruby>組<rt>く</r></ruby>み<ruby>合<rt>あ</rt></ruby>わせでできています。
 
 　　
 　　
@@ -61,6 +60,17 @@ Aキー、Zキーを<ruby>押<rt>お</rt></ruby>すと、<ruby>黒色<rt>くろ�
 ボールにラケットが<ruby>衝突<rt>しょうとつ</rt></ruby>すると<ruby>跳<rt>は</rt></ruby>ね<ruby>返<rt>かえ</rt></ruby>ります。
 
 
-　
-## 四角形を書く
-ペン機能を利用して四角形を書いてみよう。
+
+
+## Thanks
+<div>
+ここまで、<ruby>読<rt>よ</rt></ruby>んでくれてありがとう!!
+</div>
+<div>
+では、<ruby>次回<rt>じかい</rt><ruby>、また
+<ruby>会<rt>あ</rt></ruby>えることを、
+<ruby>楽<rt>たの</rt></ruby>しみにしています。
+</div>
+<div>
+ではでは
+</div>
