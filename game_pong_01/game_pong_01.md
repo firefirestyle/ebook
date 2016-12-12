@@ -71,6 +71,9 @@ Aキー、Zキーを<ruby>押<rt>お</rt></ruby>すと、<ruby>黒色<rt>くろ�
 <ruby>会<rt>あ</rt></ruby>えることを、
 <ruby>楽<rt>たの</rt></ruby>しみにしています。
 </div>
+
+そして、<ruby>次回<rt>じかい</rt></ruby>からは、コードを<ruby>書<rt>か</rt></ruby>いていきます。
+
 <div>
 ではでは
 </div>

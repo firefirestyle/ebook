@@ -10,4 +10,4 @@
 * [7日目 : 野望に忠実であれ!! 「イカのインクゲーム」をハックする (3) ](game_ika_03/game_ika_03.md)
 * [8日目 : 一休み一休み](about_poem/about_poem.md)
 * [9日目 : リミックス](remix_project/remix_project.md)
-* [10日目 : Pong](game_pong_01/game_pong_01.md)
+* [10日目 : 複雑なものも、単純な要素の組くみ合せ!!：Pongを作ろう](game_pong_01/game_pong_01.md)
