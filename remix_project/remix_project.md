@@ -1,6 +1,8 @@
+![](magic.png)
 
+いろんな<ruby>人<rt>ひと</rt></ruby>にアイデアをベースに
 
-
+<ruby>息吹<rt>いぶき</rt></ruby>を<ruby>吹<rt>ふ</rt></ruby>き<ruby>込<rt>こ</rt></ruby>もう
 
 # <ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったアプリを<ruby>改造<rt>かいぞう</rt></ruby>してみよう
 
