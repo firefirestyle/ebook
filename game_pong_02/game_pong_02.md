@@ -37,6 +37,8 @@
 ![](v005.png)
 
 #### 動作確認してみる
+https://scratch.mit.edu/projects/135933828/
+
 ![](v006.png)
 
 1. <ruby>旗<rt>はた</rt></ruby>をクリックすると<ruby>四角形<rt>しかっけい</rt></ruby>が<ruby>描画<rt>びょうが</rt></ruby>されること
@@ -51,6 +53,7 @@
 
 * <ruby>作成<rt>さくせい</rt></ruby>した<ruby>定義<rt>ていぎ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>四角形<rt>しかっけい</rt></ruby>をたくさん<ruby>書<rt>か</rt></ruby>いてみるとか
 
+https://scratch.mit.edu/projects/136158231/
 ![](v007.png)
 
 
