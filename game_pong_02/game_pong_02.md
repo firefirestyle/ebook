@@ -1,6 +1,14 @@
+![](magic.png)
+
+<ruby>火<rt>ひ</rt></ruby>の<ruby>魔法<rt>まほう</rt></ruby>も
+
+<ruby>水<rt>みず</rt></ruby>の<ruby>魔法<rt>まほう</rt></ruby>も
+
+<ruby>下<rt>した</rt></ruby>ごしらえが<ruby>大事<rt>だいじ</rt></ruby>
 
 
 
+　
 ### <ruby>四角形<rt>しかっけい</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてみましょう
 <ruby>定義<rt>ていぎ</rt></ruby>とペンを<ruby>利用<rt>りよう</rt></ruby>して、 <ruby>四角形<rt>しかっけい</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてみましょう
 
