@@ -1,3 +1,12 @@
+![](magic.png)
+
+<ruby>大地<rt>だいち</rt></ruby>をつかんで
+
+<ruby>理解<rt>りかい</rt></ruby> <ruby>分解<rt>ぶんかい</rt></ruby> <ruby>再構築<rt>さいこうちく</></ruby>
+
+そして
+
+<ruby>理解<rt>りかい</rt></ruby> <ruby>分解<rt>ぶんかい</rt></ruby> <ruby>再構築<rt>さいこうちく</></ruby>
 
 
 
