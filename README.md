@@ -15,4 +15,4 @@
 * [12日目 : プログラマーは料理上手!!：Pongを作ろう](game_pong_03/game_pong_03.md)
 * [13日目 : ボールに動きをつけよう!!：Pongを作ろう](game_pong_04/game_pong_04.md)
 * [14日目 : ラケットを追加しよう!!：Pongを作ろう](game_pong_05/game_pong_05.md)
-* [15日目 : ラケットでボールが跳ねるようにしよう!!：Pongを作ろう](game_pong_05/game_pong_06.md)
+* [15日目 : ラケットでボールが跳ねるようにしよう!!：Pongを作ろう](game_pong_06/game_pong_06.md)
