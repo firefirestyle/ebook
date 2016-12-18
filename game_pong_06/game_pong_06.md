@@ -53,10 +53,10 @@ https://scratch.mit.edu/projects/136840911/
 3. <ruby>緑色<rt>みどりいろ</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>に<ruby>当<rt>あた</rt></ruby>ると、LScoreに<ruby>得点<rt>とくてん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ること
 
 
-## 完成です。
+## チュートリアルはここまで、
 
-チュートリアルはここまで、
-もっと、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>機能追加<rt>きのうついか</rt></ruby>してゲームを<ruby>完成<rt>かんせい</rt></ruby>させよう
+Pongのチュートリアルはここまで、
+もっと、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>機能追加<rt>きのうついか</rt></ruby>してゲームを<ruby><rt>かんせい</rt></ruby>させよう
 
 アイデアをドンドン<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>もう。
 
