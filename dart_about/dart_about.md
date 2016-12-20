@@ -60,7 +60,8 @@
 ## Dartはいかがですか
 　Kyorohiroが<ruby>好<rt>す</rt></ruby>きな<ruby>言語<rt>げんご</rt></ruby>です。 ブラウザーアプリ、Androidアプリ、iOSアプリ、サーバーサイド から <ruby>一部<rt>いちぶ</rt></ruby><ruby>組<rt>一部く</rt></ruby>み<ruby>込<rt>こ</rt></ruby>みまで、<ruby>利用可能<rt>りようかのう</rt></ruby>な<ruby>言語<rt>げんご</rt></ruby>です。
 
-　
+
+
 　オブジェクト<ruby>指向<rt>しこう</rt></ruby>をサポートしつつ、<ruby>単一<rt>たんいつ</rt></ruby>スレッド<ruby>上<rt>じょう</rt></ruby>で<ruby>動作<rt>どうさ</rt></ruby>するプログラムを<ruby>書<rt>か</rt></ruby>くことができる、<ruby>凄<rt>すご</rt></ruby>い<ruby>子<rt>こ</rt></ruby>です。
 
 
@@ -90,16 +91,17 @@ https://www.jetbrains.com/idea/download/
 
 <ruby>参考程度<rt>さんこうていど</rt></ruby>に
 
-![](v101.png)
-
-![](v102.png)
-
-![](v103.png)
-
-![](v104.png)
-
+1. Nextをクリック  
+  ![](v101.png)
+2. Nextをクリック  
+  ![](v102.png)
+3. shortcut<ruby>作成<rt>さくせい</rt></ruby>にチェックを入れて、Nextをクリック  
+  ![](v103.png)
+4. Installをクリック
+  ![](v104.png)
+5. <ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>つ  
 ![](v105.png)
-
+6. Finishボタンを<ruby>押<rt>お</rt></ruby>して<ruby>完了<rt>かんりょう</rt></ruby>です  
 ![](v106.png)
 
 
@@ -109,18 +111,18 @@ https://www.jetbrains.com/idea/download/
 
 
 ## Dartをダウンロート
-https://www.dartlang.org/install に従ってインストールしてください。
+https://www.dartlang.org/install に<ruby>従<rt>した</rt></ruby>ってインストールしてください。
 
-### 私は以下の手順でやりました
+### <ruby>私<rt>わたし</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>の<ruby>手順<rt>てじゅん</rt></ruby>でやりました
 1. https://www.dartlang.org/install/archive を開く
 2. Dart SDK と Dartium をダウンロード  
 ![](v201.png)
-※ OSのバージョンとかは、Googleで検索してみよう
-3. ダウンロードしたZIPファイルを解凍して、以下におく
+※ OSのバージョンの<ruby>調<rt>方しら</rt></ruby>べた<ruby>方<rt>かた</rt></ruby>とかは、Googleで<ruby>検索<rt>けんさく</rt></ruby>してみよう
+3. ダウンロードしたZIPファイルを<ruby>解凍<rt>かいとう</rt></rubyして、<ruby>以下<rt>いか</rt></ruby>におく
   * c:\tools\dart-sdk
   * c:\tools\dartium1.21  
-  ※ 置き場所はどこでも良いです。お好きなところで  
-  ※ 解凍方法は、Googleで検索してみよう
+  ※ <ruby>置<rt>お</rt></ruby>き<ruby>場所<rt>ばしょ</rt></ruby>はどこでも<ruby>良<rt>よ</rt></ruby>いです。お<ruby>好<rt>す</rt></ruby>きなところで  
+  ※ <ruby>解凍方法<rt>かいとうほうほう</rt></ruby>は、Googleで<ruby>検索<rt>けんさく</rt></ruby>してみよう
 
 
 
@@ -128,7 +130,7 @@ https://www.dartlang.org/install に従ってインストールしてくださ�
 
 
 
-## IntelliJを起動して設定する
+## IntelliJを<ruby>起動<rt>きどう</rt></ruby>して<ruby>設定<rt>せってい</rt></ruby>する
 
 ![](v302.png)
 
