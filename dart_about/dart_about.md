@@ -58,7 +58,7 @@
 
 
 ## Dartはいかがですか
-　Kyorohiroが<ruby>好<rt>す</rt></ruby>きな<ruby>言語<rt>げんご</rt></ruby>です。 ブラウザーアプリ、Androidアプリ、iOSアプリ、サーバーサイド から <ruby>一部<rt>いちぶ</rt></ruby><ruby>組<rt>一部く</rt></ruby>み<ruby>込<rt>こ</rt></ruby>みまで、<ruby>利用可能<rt>りようかのう</rt></ruby>な<ruby>言語<rt>げんご</rt></ruby>です。
+　Kyorohiroが<ruby>好<rt>す</rt></ruby>きな<ruby>言語<rt>げんご</rt></ruby>です。 ブラウザーアプリ、Androidアプリ、iOSアプリ、サーバーサイド から <ruby>一部<rt>いちぶ</rt></ruby><ruby>組<rt>く</rt></ruby>み<ruby>込<rt>こ</rt></ruby>みまで、<ruby>利用可能<rt>りようかのう</rt></ruby>な<ruby>言語<rt>げんご</rt></ruby>です。
 
 
 
