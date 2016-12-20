@@ -149,24 +149,25 @@ https://www.dartlang.org/install に<ruby>従<rt>した</rt></ruby>ってイン�
 2. Dartを<ruby>クリック</ruby>して、pathを<ruby>設定<rt>せってい</rt></ruby>する  
 ![](v402.png)  
 <ruby>私<rt>わたし</rt></ruby>の<ruby>場合<rt>ばしょ</rt></ruby>は、Dart Sdk には「c:/tools/dart-sdk/」を<ruby>指定<rt>してい</rt></ruby>しました。 Dartiumは、「c:/tools/dartium/chrome.exe」を<ruby>指定<rt>してい</rt></ruby>しました。  
-※ Dartを<ruby>解凍<rt>かいとう</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>変<rt>か</rt></ruby>わります!!
-
-
+※ Dartを<ruby>解凍<rt>かいとう</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>変<rt>か</rt></ruby>わります!!  
+3. Nextボタンを<ruby>押<rt>お</rt</ruby>す
 
 
 　　
 　
 ## HelloWorldを<ruby>実行<rt>じっこう</rt></ruby>してみる
-![](v405.png)
-
-![](v505.png)
-
+1. Dartを選択して、 Simple Console...を選択する。  
+![](v405.png)  
+2. Nextボタンをクリック  
+3. Project name　を　helloworld にする  
+![](v505.png
+4.  Finbish ボタンをクリック  
 ![](v506.png)
-
+5. Closeボタンをクリック
 ![](v506.png)
-
-![](V507.png)
-
+6. Runボタンをクリック  
+![](V507.png)  
+7. hello world!! と表示されます。
 
 
 
