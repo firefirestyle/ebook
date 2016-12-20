@@ -132,23 +132,31 @@ https://www.dartlang.org/install に<ruby>従<rt>した</rt></ruby>ってイン�
 
 ## IntelliJを<ruby>起動<rt>きどう</rt></ruby>して<ruby>設定<rt>せってい</rt></ruby>する
 
-![](v302.png)
-
+1. Skip All abd Defaults をクリック  
+![](v302.png)  
+2. Configure->Plugins を選択
 ![](v303.png)
-
+3. Install JetBrains Plugin をクリック  
 ![](v304.png)
-
+4. Dartを選択して、Installをクリック  
 ![](v305.png)
-
+5. Restart IntelliJ IDEA をクリック    
 ![](v306.png)
 
-## Dart SDK と Dartium の設定をする
+## Dart SDK と Dartium の<ruby>設定<rt>せってい</rt></ruby>をする
+1. Create New Project をクリック  
 ![](v401.png)
+2. Dartを<ruby>クリック</ruby>して、pathを<ruby>設定<rt>せってい</rt></ruby>する  
+![](v402.png)  
+<ruby>私<rt>わたし</rt></ruby>の<ruby>場合<rt>ばしょ</rt></ruby>は、Dart Sdk には「c:/tools/dart-sdk/」を<ruby>指定<rt>してい</rt></ruby>しました。 Dartiumは、「c:/tools/dartium/chrome.exe」を<ruby>指定<rt>してい</rt></ruby>しました。  
+※ Dartを<ruby>解凍<rt>かいとう</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>変<rt>か</rt></ruby>わります!!
 
-![](v402.png)
 
 
-## HelloWorldを実行してみる
+
+　　
+　
+## HelloWorldを<ruby>実行<rt>じっこう</rt></ruby>してみる
 ![](v405.png)
 
 ![](v505.png)
