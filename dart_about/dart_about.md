@@ -160,7 +160,7 @@ https://www.dartlang.org/install に<ruby>従<rt>した</rt></ruby>ってイン�
 ![](v405.png)  
 2. Nextボタンをクリック  
 3. Project name　を　helloworld にする  
-![](v505.png
+![](v505.png)
 4.  Finbish ボタンをクリック  
 ![](v506.png)
 5. Closeボタンをクリック
