@@ -32,7 +32,7 @@ cd C:\Users\USER\IdeaProjects\helloworld
 2. <ruby>実行<rt>じっこう</rt></ruby>してみる  
 ```
 c:\tools\dart-sdk-1.21\bin\dart.exe .\bin\main.dart
-```
+```  
 Dart Love と<ruby>表示<rt>ひょうじ</rt></ruby>されました。
 
 

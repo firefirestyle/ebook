@@ -18,4 +18,5 @@
 * [15日目 : ラケットでボールが跳ねるようにしよう!!：Pongを作ろう](game_pong_06/game_pong_06.md)
 * [16日目 : 雪の結晶を降らしてみ](material_snowflake/material_snowflake.md)
 * [17日目 : Dartを始めよう!! HelloWorld](dart_about/dart_about.md)
-* [18日目 : ビルドに失敗させてみよう!!](dart_about/dart_about.md)
+* [18日目 : ビルドに失敗させてみよう!!](dart_about_02/dart_about_02.md)
+* [19日目 : コマンドプロンプトから実行してみよう!!](dart_about_03/dart_about_03.md)
