@@ -22,3 +22,6 @@
 * [19日目 : コマンドプロンプトから実行してみよう!!](dart_about_03/dart_about_03.md)
 * [20日目 : Scratchと比較してみよう!!](dart_about_04/dart_about_04.md)
 * [21日目 : DartのIf文!! Scratchと比較してみよう!!](dart_if/dart_if.md)
+* [22日目 : Dartの比較演算子!! Scratchと比較してみよう!!](dart_if_01/dart_if_01.md)
+* [23日目 : DartのLoop機能!! Scratchと比較してみよう!!](dart_loop/dart_loop.md)
+* [24日目 : DartのSleep機能!! Scratchと比較してみよう!!](dart_asyncawait/dart_asyncawait.md)
